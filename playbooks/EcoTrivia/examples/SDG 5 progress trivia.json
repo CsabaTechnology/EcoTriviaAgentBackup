@@ -1,0 +1,85 @@
+{
+  "name": "27949550-3123-494f-9449-c5fcb1291ff9",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a trivia about the progress of Sustainable Development Goal 5"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the progress of Sustainable Development Goal 5?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "Halfway to 2030, the world is failing women and girls. The latest available data show that only 2 Goal 5 indicators and sub-indicators are “close to target”, 8 are at a moderate distance to target, and 4 are far or very far from the 2030 targets. Globally, no SDG 5 indicator is at the “target met or almost met” level.",
+          "snippets": [ {
+            "text": "Lackluster commitment to gender equality is to blame for limited\nprogress across Goal 5\nHalfway to 2030, the world is failing women and girls. The latest available data show that\nonly 2 Goal 5 indicators and sub-indicators are “close to target”, 8 are at a moderate distance\nto target, and 4 are far or very far from the 2030 targets. Globally, no SDG 5 indicator is\nat the “target met or almost met” level. Deeply rooted biases against women, manifesting\nin unequal access to sexual and reproductive health, unequal political representation,\neconomic disparities and a lack of legal protection, among other issues, prevent tangible\nprogress. Insufficient data and evidence to monitor advances and incentivize policy\nactions are other major impediments; countries lack 44 per cent of the data required to\ntrack SDG 5. Addressing institutional barriers, including through removing discriminatory\nlaws, expanding women’s participation in leadership and decision-making and right-sizing\ninvestments in gender equality at the national, regional and global levels, are among the\nconcrete actions needed to substantially accelerate progress by 2030. Involving different\nstakeholders, including men and boys, is imperative. A continued failure to prioritize SDG 5\nwill put the entire 2030 Agenda for Sustainable Development in peril. A global SDG 5 progress assessment based on the latest data, 2023 PROGRESS ON THE SUSTAINABLE DEVELOPMENT GOALS 12 41 COUNTRIES, ON AVERAGE, ARE\n“TARGET MET OR ALMOST MET” OR\n“CLOSE TO TARGET” ON AT LEAST\nONE SDG 5 INDICATOR 80+ COUNTRIES, ON AVERAGE, ARE\nMISSING DATA FOR AT LEAST\nONE SDG 5 INDICATOR Source: For further details on SDG 5 progress, globally and across regions, see the SDG 5 tracker, pages 25-31. Note: SDG indicator 5.2.2 is excluded since\ndata are unavailable for this indicator in the UN Global SDG Indicators Database. The limited data available globally for SDG indicators 5.a.1 and 5.a.2 is not\nsufficient to produce a robust level assessment methodology. N/A = indicator is not applicable, see SDG 5 tracker notes for further details. Target met or almost met/\nClose to target\nModerate\nFar or very far\nInsufficient data 5.c.1\n5.b.1\n5.a.2 5.a.1 5.6.2\n5.6.1 5.5.2 5.5.1 (b)\n5.5.1 (a)\n5.4.1 5.3.2\n5.3.1\n5.2.1\n5.1.1 (A4)\n5.1.1 (A3)\n5.1.1 (A2)\n5.1.1 (A1) SDG indicators and sub-indicators Number of countries N/A 0 20 40 60 80 100 120 140 160 180 193 13 THE GENDER SNAPSHOT 2023\nTHE GENDER SNAPSHOT 2023 A gender-focused SDG stimulus package to deliver\ntransformational results for women, girls and societies ",
+            "title": "Sustainable Development Goals 2023 Report Gender Snapshot",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2023 Report Gender Snapshot.pdf#:~:text=Lackluster%20commitment%20to,girls%20and%20societies"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the progress of Sustainable Development Goal 5?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "Halfway to 2030, the world is failing women and girls. The latest available data show that only 2 Goal 5 indicators and sub-indicators are “close to target”, 8 are at a moderate distance to target, and 4 are far or very far from the 2030 targets. Globally, no SDG 5 indicator is at the “target met or almost met” level.",
+          "snippets": [ {
+            "text": "Lackluster commitment to gender equality is to blame for limited\nprogress across Goal 5\nHalfway to 2030, the world is failing women and girls. The latest available data show that\nonly 2 Goal 5 indicators and sub-indicators are “close to target”, 8 are at a moderate distance\nto target, and 4 are far or very far from the 2030 targets. Globally, no SDG 5 indicator is\nat the “target met or almost met” level. Deeply rooted biases against women, manifesting\nin unequal access to sexual and reproductive health, unequal political representation,\neconomic disparities and a lack of legal protection, among other issues, prevent tangible\nprogress. Insufficient data and evidence to monitor advances and incentivize policy\nactions are other major impediments; countries lack 44 per cent of the data required to\ntrack SDG 5. Addressing institutional barriers, including through removing discriminatory\nlaws, expanding women’s participation in leadership and decision-making and right-sizing\ninvestments in gender equality at the national, regional and global levels, are among the\nconcrete actions needed to substantially accelerate progress by 2030. Involving different\nstakeholders, including men and boys, is imperative. A continued failure to prioritize SDG 5\nwill put the entire 2030 Agenda for Sustainable Development in peril. A global SDG 5 progress assessment based on the latest data, 2023 PROGRESS ON THE SUSTAINABLE DEVELOPMENT GOALS 12 41 COUNTRIES, ON AVERAGE, ARE\n“TARGET MET OR ALMOST MET” OR\n“CLOSE TO TARGET” ON AT LEAST\nONE SDG 5 INDICATOR 80+ COUNTRIES, ON AVERAGE, ARE\nMISSING DATA FOR AT LEAST\nONE SDG 5 INDICATOR Source: For further details on SDG 5 progress, globally and across regions, see the SDG 5 tracker, pages 25-31. Note: SDG indicator 5.2.2 is excluded since\ndata are unavailable for this indicator in the UN Global SDG Indicators Database. The limited data available globally for SDG indicators 5.a.1 and 5.a.2 is not\nsufficient to produce a robust level assessment methodology. N/A = indicator is not applicable, see SDG 5 tracker notes for further details. Target met or almost met/\nClose to target\nModerate\nFar or very far\nInsufficient data 5.c.1\n5.b.1\n5.a.2 5.a.1 5.6.2\n5.6.1 5.5.2 5.5.1 (b)\n5.5.1 (a)\n5.4.1 5.3.2\n5.3.1\n5.2.1\n5.1.1 (A4)\n5.1.1 (A3)\n5.1.1 (A2)\n5.1.1 (A1) SDG indicators and sub-indicators Number of countries N/A 0 20 40 60 80 100 120 140 160 180 193 13 THE GENDER SNAPSHOT 2023\nTHE GENDER SNAPSHOT 2023 A gender-focused SDG stimulus package to deliver\ntransformational results for women, girls and societies ",
+            "title": "Sustainable Development Goals 2023 Report Gender Snapshot",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2023 Report Gender Snapshot.pdf#:~:text=Lackluster%20commitment%20to,girls%20and%20societies"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the progress of Sustainable Development Goal 5?\n(A) The world is on track to achieve all of the targets for Sustainable Development Goal 5.\n(B) The world is making progress towards achieving the targets for Sustainable Development Goal 5, but there is still more work to be done.\n(C) The world is not on track to achieve any of the targets for Sustainable Development Goal 5.\n(D) The data on the progress of Sustainable Development Goal 5 is inconclusive.\nAnswer: B"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Give me a hint about the correct choice"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The world is making progress towards achieving the targets for Sustainable Development Goal 5, but there are still significant challenges that need to be addressed."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Do you have more specific hint about the solution?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "One of the challenges that is slowing progress towards achieving the targets for Sustainable Development Goal 5 is the lack of data on the issue."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the answer to the trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to the trivia can be found in the Sustainable Development Goals 2023 Report Gender Snapshot."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of the document has the answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the section on the progress of Sustainable Development Goal 5."
+    }
+  } ],
+  "displayName": "SDG 5 progress trivia",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

@@ -1,0 +1,77 @@
+{
+  "name": "72751c10-6e65-4fa1-b57e-979db55fab9c",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a trivia about sustainable forestry"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the importance of sustainable forestry?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "Sustainable forest management has been described as forestry’s contribution to sustainable development. This is development which is economically viable, environmentally benign and socially beneficial, and which balances present and future needs.",
+          "snippets": [ {
+            "text": "There is increasing pressure worldwide for improvement in the quality of forest management.\nConcern about environmental and social issues associated with forestry – such as effects on\nbiodiversity, climate change, desertification, flooding, conflicts over use rights and sustainable\ndevelopment generally – has led to international agreements and programmes for improving forest\nmanagement practices.\nAlthough there is general agreement that sustainable forest management (SFM) should be\nenvironmentally responsible, socially beneficial and economically viable, a need to agree a more\nprecise definition of SFM has been recognized. As a result, various attempts have been made to\ndevelop international and national standards of sustainable forest management. However, it is often\ndifficult for forest managers, especially in the tropics, to find practical information explaining exactly\nwhat is required and how to put it into practice. This handbook aims to fill that gap.\nPart One looks briefly at the background to SFM and the development of new standards of forest\nmanagement. It covers: Chapter 1 What is Sustainable Forest Management? Chapter 2 Why practise Sustainable Forestry Management? Chapter 3 Standards for Sustainable Forest Management Sustainable forest management has been described as forestry’s contribution to sustainable\ndevelopment. This is development which is economically viable, environmentally benign and socially\nbeneficial, and which balances present and future needs (see Box 1.1).\nInteractions between the flora and fauna in a forest ecosystem are complex and often poorly\nunderstood. The consequences of actions taken today may only show up in 50 to 100 years’ time.\nFor this reason, some people feel that the phrase ‘sustainable forest management’ should not be\nused to describe current management systems. Other phrases such as ‘good forest stewardship’ or\n‘well-managed forests’ are often preferred.\nAlthough attempts at comprehensive definitions of SFM will always be argued over, there are\nmany practices that are widely recognized as unsustainable, and which inevitably lead to forest\ndegradation. For example, actions which cause a breakdown in the forest’s ability to regenerate, or\nthat exclude local people’s needs, are unsustainable.\nThe approach taken in this handbook is to define practical sustainable forest management as the\nbest available practices, based on current scientific and traditional knowledge, which allow multiple\nobjectives and needs to be met without degrading the forest resource.\nEarly definitions of sustainable forestry concentrated on the timber resource, with management\naimed at the ‘sustained yield’ of a limited number of wood products. Recently the importance of\nother products and services provided by forests has been recognized, particularly those of broader\nsocial concern. Concepts of SFM now encompass the continued production of these, such as\nprotection of water supply, soils and cultural sites, as well as timber. 1 What is Sustainable Forest\nManagement? Box 1.1 What does sustainable forest management mean? ",
+            "title": "The_Sustainable_Forestry_Handbook",
+            "uri": "gs://sustainable-development-goals/The_Sustainable_Forestry_Handbook.pdf#:~:text=There%20is%20increasing,forest%20management%20mean%3F"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the importance of sustainable forestry?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "Sustainable forest management has been described as forestry’s contribution to sustainable development. This is development which is economically viable, environmentally benign and socially beneficial, and which balances present and future needs.",
+          "snippets": [ {
+            "text": "There is increasing pressure worldwide for improvement in the quality of forest management.\nConcern about environmental and social issues associated with forestry – such as effects on\nbiodiversity, climate change, desertification, flooding, conflicts over use rights and sustainable\ndevelopment generally – has led to international agreements and programmes for improving forest\nmanagement practices.\nAlthough there is general agreement that sustainable forest management (SFM) should be\nenvironmentally responsible, socially beneficial and economically viable, a need to agree a more\nprecise definition of SFM has been recognized. As a result, various attempts have been made to\ndevelop international and national standards of sustainable forest management. However, it is often\ndifficult for forest managers, especially in the tropics, to find practical information explaining exactly\nwhat is required and how to put it into practice. This handbook aims to fill that gap.\nPart One looks briefly at the background to SFM and the development of new standards of forest\nmanagement. It covers: Chapter 1 What is Sustainable Forest Management? Chapter 2 Why practise Sustainable Forestry Management? Chapter 3 Standards for Sustainable Forest Management Sustainable forest management has been described as forestry’s contribution to sustainable\ndevelopment. This is development which is economically viable, environmentally benign and socially\nbeneficial, and which balances present and future needs (see Box 1.1).\nInteractions between the flora and fauna in a forest ecosystem are complex and often poorly\nunderstood. The consequences of actions taken today may only show up in 50 to 100 years’ time.\nFor this reason, some people feel that the phrase ‘sustainable forest management’ should not be\nused to describe current management systems. Other phrases such as ‘good forest stewardship’ or\n‘well-managed forests’ are often preferred.\nAlthough attempts at comprehensive definitions of SFM will always be argued over, there are\nmany practices that are widely recognized as unsustainable, and which inevitably lead to forest\ndegradation. For example, actions which cause a breakdown in the forest’s ability to regenerate, or\nthat exclude local people’s needs, are unsustainable.\nThe approach taken in this handbook is to define practical sustainable forest management as the\nbest available practices, based on current scientific and traditional knowledge, which allow multiple\nobjectives and needs to be met without degrading the forest resource.\nEarly definitions of sustainable forestry concentrated on the timber resource, with management\naimed at the ‘sustained yield’ of a limited number of wood products. Recently the importance of\nother products and services provided by forests has been recognized, particularly those of broader\nsocial concern. Concepts of SFM now encompass the continued production of these, such as\nprotection of water supply, soils and cultural sites, as well as timber. 1 What is Sustainable Forest\nManagement? Box 1.1 What does sustainable forest management mean? ",
+            "title": "The_Sustainable_Forestry_Handbook",
+            "uri": "gs://sustainable-development-goals/The_Sustainable_Forestry_Handbook.pdf#:~:text=There%20is%20increasing,forest%20management%20mean%3F"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the importance of sustainable forestry?\n(A) It helps to protect the environment and biodiversity\n(B) It helps to mitigate climate change\n(C) It helps to provide economic benefits\n(D) All of the above\nAnswer: D"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a hint about the correct choice?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Sustainable forestry is important because it helps to protect the environment, mitigate climate change, and provide economic benefits."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the answer to this trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to the trivia can be found in the Sustainable Forestry Handbook."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of that document contains the answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the section on \"What is Sustainable Forest Management?\"."
+    }
+  } ],
+  "displayName": "Sustainable forestry trivia 1",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

@@ -1,0 +1,85 @@
+{
+  "name": "0278bcab-e6bc-43a7-a7f3-28030ed68300",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a numeric trivia of one of the Sustainable Development Goals"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the percentage of the world's population that lacks access to safely managed sanitation services?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "As of 2015, 2.3 billion people lacked even a basic level of sanitation service, and 892 million people continued to practise open defecation.",
+          "snippets": [ {
+            "text": "A majority of the world's population still lack safe sanitation, and 3 in 10 lack safe drinking water\nIn 2015, 5.2 billion people (71 per cent of the global population) used\nsafely managed drinking water services—that is, an improved water\nsource located on premises, available when needed and free from\ncontamination. An additional 1.3 billion people (17 per cent of the\npopulation) used a basic drinking water service—an improved water\nsource not more than 30 minutes away. This means that 844 million\npeople still lacked even a basic level of service. Based on estimates from 84 countries in 2015, 39 per cent of the\nglobal population used safely managed sanitation services—basic\nfacilities that safely dispose of human waste. An additional\n29 per cent of the global population used a basic sanitation service—\nan improved facility that is not shared. That year, 2.3 billion people\nlacked even a basic level of service, and 892 million people continued\nto practise open defecation. Only 27 per cent of the population in\nleast developed countries had basic handwashing facilities. Proportion of the population using safely managed and basic drinking water, sanitation and hygiene services, 2015 (percentage) 57 31 100 Central and Southern Asia\nAustralia and New Zealand 68\n50 32 Drinking water Sanitation Hygiene • • • • 71 24 94 65 17 91\n34 52 5 31 94 0 20 40 60 80 100 World Northern Africa and Western Asia\nSub-Saharan Africa\nOceania*\nEurope and Northern America\nLatin America and the Caribbean\nEastern and South-Eastern Asia 39 33 78 22 55 29 53 28\n36 19 63 22 0 20 40 60 80 100 76 15 0 20 40 60 80 100 • • • Small island developing States • 82 • 68 56 Landlocked developing countries 33 29 • 40 32 Least developed countries 33 29 • 32 27 • • • • • • • Safely managed drinking water services\nBasic drinking water services Basic handwashing facility\n• Insufficient data on basic handwashing facility • Insufficient data to estimate safely managed Note: Oceania* refers to Oceania excluding Australia and New Zealand, throughout the publication. Safely managed sanitation services\nBasic sanitation services\n• Insufficient data to estimate safely managed HLPF GOALS IN FOCUS | Goal 6 | Clean water and sanitation 19 Conflict, violence and instability are curtailing\nprogress on water and sanitation\nConflict, violence and instability can derail progress towards universal\naccess to basic water and sanitation services. Using the World Bank’s\nharmonized classification of fragile states, an estimated 484 million\npeople worldwide lived in fragile situations in 2015. Of these, 284\nmillion people lacked basic sanitation services and 183 million lacked\nbasic drinking water services. Globally, people living in fragile states\nare twice as likely to lack basic sanitation and about four times as\nlikely to lack basic drinking water services as populations in non-fragile\nsituations, with significant differences observed across all regions. ",
+            "title": "Sustainable Development Goals 2018 Report",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2018 Report.pdf#:~:text=A%20majority%20of,across%20all%20regions."
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the percentage of the world's population that lacks access to safely managed sanitation services?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "As of 2015, 2.3 billion people lacked even a basic level of sanitation service, and 892 million people continued to practise open defecation.",
+          "snippets": [ {
+            "text": "A majority of the world's population still lack safe sanitation, and 3 in 10 lack safe drinking water\nIn 2015, 5.2 billion people (71 per cent of the global population) used\nsafely managed drinking water services—that is, an improved water\nsource located on premises, available when needed and free from\ncontamination. An additional 1.3 billion people (17 per cent of the\npopulation) used a basic drinking water service—an improved water\nsource not more than 30 minutes away. This means that 844 million\npeople still lacked even a basic level of service. Based on estimates from 84 countries in 2015, 39 per cent of the\nglobal population used safely managed sanitation services—basic\nfacilities that safely dispose of human waste. An additional\n29 per cent of the global population used a basic sanitation service—\nan improved facility that is not shared. That year, 2.3 billion people\nlacked even a basic level of service, and 892 million people continued\nto practise open defecation. Only 27 per cent of the population in\nleast developed countries had basic handwashing facilities. Proportion of the population using safely managed and basic drinking water, sanitation and hygiene services, 2015 (percentage) 57 31 100 Central and Southern Asia\nAustralia and New Zealand 68\n50 32 Drinking water Sanitation Hygiene • • • • 71 24 94 65 17 91\n34 52 5 31 94 0 20 40 60 80 100 World Northern Africa and Western Asia\nSub-Saharan Africa\nOceania*\nEurope and Northern America\nLatin America and the Caribbean\nEastern and South-Eastern Asia 39 33 78 22 55 29 53 28\n36 19 63 22 0 20 40 60 80 100 76 15 0 20 40 60 80 100 • • • Small island developing States • 82 • 68 56 Landlocked developing countries 33 29 • 40 32 Least developed countries 33 29 • 32 27 • • • • • • • Safely managed drinking water services\nBasic drinking water services Basic handwashing facility\n• Insufficient data on basic handwashing facility • Insufficient data to estimate safely managed Note: Oceania* refers to Oceania excluding Australia and New Zealand, throughout the publication. Safely managed sanitation services\nBasic sanitation services\n• Insufficient data to estimate safely managed HLPF GOALS IN FOCUS | Goal 6 | Clean water and sanitation 19 Conflict, violence and instability are curtailing\nprogress on water and sanitation\nConflict, violence and instability can derail progress towards universal\naccess to basic water and sanitation services. Using the World Bank’s\nharmonized classification of fragile states, an estimated 484 million\npeople worldwide lived in fragile situations in 2015. Of these, 284\nmillion people lacked basic sanitation services and 183 million lacked\nbasic drinking water services. Globally, people living in fragile states\nare twice as likely to lack basic sanitation and about four times as\nlikely to lack basic drinking water services as populations in non-fragile\nsituations, with significant differences observed across all regions. ",
+            "title": "Sustainable Development Goals 2018 Report",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2018 Report.pdf#:~:text=A%20majority%20of,across%20all%20regions."
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What percentage of the world's population lacks access to safely managed sanitation services?\n(A) 10%\n(B) 25%\n(C) 50%\n(D) 75%\nAnswer: B"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Give me a hint about the correct choice"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The percentage of the world's population that lacks access to safely managed sanitation services is greater than 10%, but less than 50%."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Give me a more specific hint about the correct choice"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The percentage of the world's population that lacks access to safely managed sanitation services is closer to 25% than to 10%."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the answer to the trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to the trivia can be found in the Sustainable Development Goals 2018 Report."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of the document contains the answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the section on sanitation."
+    }
+  } ],
+  "displayName": "SDG sanitation numeric trivia",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

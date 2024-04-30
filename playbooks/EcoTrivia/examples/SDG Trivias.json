@@ -1,0 +1,154 @@
+{
+  "name": "764a5c78-4ff3-4995-904d-f54744eeb3fb",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Can you come up with a trivia about some Sustainable Development Goal?"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the goal of Sustainable Development Goal 2?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "The goal of Sustainable Development Goal 2 is to end hunger, achieve food security and improved nutrition, and promote sustainable agriculture.",
+          "snippets": [ {
+            "text": "Sustainable Development Goals Progress Chart 2022 1 Sustainable Development Goals Progress Chart 2022 The Sustainable Development Goals Progress Chart 2022 presents a snapshot of global and regional progress of selected targets under the 17 Goals of the 2030 Agenda for Sustainable Development.\nThe progress assessment is based on the most up-to-date data and for some of the Sustainable Development Goals (SDGs) also reflect the impacts of the COVID-19 pandemic. Due to data collection\nchallenges related to pandemic-related measures, measuring the full impact of COVID-19 is limited for the other Goals.\nThe Progress Chart 2022 clearly demonstrates the deterioration of progress towards many targets, such as poverty, food security, ending the epidemic of malaria, immunization coverage, and\nemployment, caused by the impacts of the COVID-19 pandemic, climate change and conflict. Recent cascading crises have magnified the challenges of achieving the SDGs. Urgent, scaled-up and\ncoordinated actions by all countries are needed to accelerate SDG implementation and avert the devastating impacts in order to get on track and chart a course for better recovery.\nThe progress chart presents two types of information: 1) a trend assessment using stoplight colours to measure progress towards the target (from a baseline year to the most recent data point), and 2)\na level assessment using a gauge meter to measure the current level of development with respect to the distance from a target, using the latest data. The chart is based on a limited number of indicators\nand information available as of June 2022. For most of the indicators, the latest available data are from 2019 to 2021. A baseline year of around 2015 or 2010 is used for the trend assessment. Goal and targets World Sub-Saharan\nAfrica Northern\nAfrica and\nWestern Asia Central and\nSouthern Asia Eastern and\nSouth-Eastern\nAsia Latin America\nand the\nCaribbean Pacific island\ncountries* Developed\ncountries* Goal 1 | End poverty in all its forms everywhere Eradicate extreme poverty\nfor all people everywhere1 Achieve substantial social protection\ncoverage2 Goal 2 | End hunger, achieve food security and improved nutrition and promote sustainable agriculture Ensure access by all people to safe, nutritious\nand sufficient food all year round\nBy 2030, achieve a 50 per cent reduction\nfrom 2012 in the number of stunted children\nunder 5 years3, 4 Goal 3 | Ensure healthy lives and promote well-being for all at all ages Increase the coverage of births attended by\nskilled health personnel5 2 Goal and targets World Sub-Saharan\nAfrica Northern\nAfrica and\nWestern Asia Central and\nSouthern Asia Eastern and\nSouth-Eastern\nAsia Latin America\nand the\nCaribbean Pacific island\ncountries* Developed\ncountries* Reduce under-5 mortality to at least\nas low as 25 per 1,000 live births6 End the epidemic of malaria7 Increase diphtheria-tetanus-pertussis\nvaccine coverage among 1-year-olds Goal 4 | Ensure inclusive and equitable quality education and promote lifelong opportunities for all Ensure all girls and boys complete primary\neducation Goal 5 | Achieve gender equality and empower all women and girls Eliminate child marriage5 ",
+            "title": "Sustainable Development Goals 2022 Progress Chart",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Progress Chart.pdf#:~:text=Sustainable%20Development%20Goals,Eliminate%20child%20marriage5"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the goal of Sustainable Development Goal 2?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "The goal of Sustainable Development Goal 2 is to end hunger, achieve food security and improved nutrition, and promote sustainable agriculture.",
+          "snippets": [ {
+            "text": "Sustainable Development Goals Progress Chart 2022 1 Sustainable Development Goals Progress Chart 2022 The Sustainable Development Goals Progress Chart 2022 presents a snapshot of global and regional progress of selected targets under the 17 Goals of the 2030 Agenda for Sustainable Development.\nThe progress assessment is based on the most up-to-date data and for some of the Sustainable Development Goals (SDGs) also reflect the impacts of the COVID-19 pandemic. Due to data collection\nchallenges related to pandemic-related measures, measuring the full impact of COVID-19 is limited for the other Goals.\nThe Progress Chart 2022 clearly demonstrates the deterioration of progress towards many targets, such as poverty, food security, ending the epidemic of malaria, immunization coverage, and\nemployment, caused by the impacts of the COVID-19 pandemic, climate change and conflict. Recent cascading crises have magnified the challenges of achieving the SDGs. Urgent, scaled-up and\ncoordinated actions by all countries are needed to accelerate SDG implementation and avert the devastating impacts in order to get on track and chart a course for better recovery.\nThe progress chart presents two types of information: 1) a trend assessment using stoplight colours to measure progress towards the target (from a baseline year to the most recent data point), and 2)\na level assessment using a gauge meter to measure the current level of development with respect to the distance from a target, using the latest data. The chart is based on a limited number of indicators\nand information available as of June 2022. For most of the indicators, the latest available data are from 2019 to 2021. A baseline year of around 2015 or 2010 is used for the trend assessment. Goal and targets World Sub-Saharan\nAfrica Northern\nAfrica and\nWestern Asia Central and\nSouthern Asia Eastern and\nSouth-Eastern\nAsia Latin America\nand the\nCaribbean Pacific island\ncountries* Developed\ncountries* Goal 1 | End poverty in all its forms everywhere Eradicate extreme poverty\nfor all people everywhere1 Achieve substantial social protection\ncoverage2 Goal 2 | End hunger, achieve food security and improved nutrition and promote sustainable agriculture Ensure access by all people to safe, nutritious\nand sufficient food all year round\nBy 2030, achieve a 50 per cent reduction\nfrom 2012 in the number of stunted children\nunder 5 years3, 4 Goal 3 | Ensure healthy lives and promote well-being for all at all ages Increase the coverage of births attended by\nskilled health personnel5 2 Goal and targets World Sub-Saharan\nAfrica Northern\nAfrica and\nWestern Asia Central and\nSouthern Asia Eastern and\nSouth-Eastern\nAsia Latin America\nand the\nCaribbean Pacific island\ncountries* Developed\ncountries* Reduce under-5 mortality to at least\nas low as 25 per 1,000 live births6 End the epidemic of malaria7 Increase diphtheria-tetanus-pertussis\nvaccine coverage among 1-year-olds Goal 4 | Ensure inclusive and equitable quality education and promote lifelong opportunities for all Ensure all girls and boys complete primary\neducation Goal 5 | Achieve gender equality and empower all women and girls Eliminate child marriage5 ",
+            "title": "Sustainable Development Goals 2022 Progress Chart",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Progress Chart.pdf#:~:text=Sustainable%20Development%20Goals,Eliminate%20child%20marriage5"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the goal of Sustainable Development Goal 2?\n(A) End poverty in all its forms everywhere\n(B) End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\n(C) Ensure healthy lives and promote well-being for all at all ages\n(D) Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all\nAnswer: B"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a hint about the right choice?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 2 is to address a fundamental issue that affects billions of people around the world."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you be more specific?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 2 is to ensure that everyone has enough food to eat and is well-nourished."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Do you know where can I find the answer to the trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to the trivia can be found in the Sustainable Development Goals 2022 Progress Chart, which is available online."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of this document contains the answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the section on Sustainable Development Goal 2."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Come up with another trivia about any information of another Sustainable Development Goal"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the goal of Sustainable Development Goal 3?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "The goal of Sustainable Development Goal 3 is to ensure healthy lives and promote well-being for all at all ages.",
+          "snippets": [ {
+            "text": "Additional resources, press releases, etc. with links:\n• Neglected tropical diseases: impact of COVID-19 and WHO’s response – 2021 update. Geneva: World Health Organization, Weekly Epidemiological Record, 2021;\n96(38):461–8 http://apps.who.int/iris/bitstream/handle/10665/345382/WER9638-eng-fre.pdf\n• Ending the neglect to attain the Sustainable Development Goals: a road map for neglected tropical diseases 2021–2030. Geneva: World Health Organization; 2021\nhttps://apps.who.int/iris/handle/10665/338565\nStoryline author(s)/contributor(s): Alexei Mikhailov, WHO; Albis Francesco Gabrielli, WHO; Ashok Moloo, WHO\nCustodian agency(ies): WHO 2 Preventive, curative, surgical or rehabilitative interventions. 3 Neglected tropical diseases: impact of COVID-19 and WHO’s response – 2021 update. Geneva: World Health Organization, Weekly Epidemiological Record. 2021; 96(38):461–8\n(http://apps.who.int/iris/bitstream/handle/10665/345382/WER9638-eng-fre.pdf, accessed 4 February 2022). 4 Ending the neglect to attain the Sustainable Development Goals: a road map for neglected tropical diseases 2021–2030. Geneva: World Health Organization; 2021 (https://apps.who.int/iris/handle/10665/338565,\naccessed 4 February 2022). Proportion of number people requiring interventions against neglected tropical diseases out of\ntotal population Target 3.4: By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and\npromote mental health and well-being\nIndicator 3.4.1: Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease\nMost of the world is not on track to meet the SDG target on noncommunicable diseases\nGlobally, about three-quarters (74%) of all deaths in 2019 were caused by noncommunicable diseases (NCDs). The premature NCD mortality, measured by the unconditional\nprobability of dying from any of the four main NCDs (cardiovascular\ndisease, cancer, diabetes or chronic respiratory disease) between age 30\nand exact age 70, has declined by 22.2% from 22.9% in 2000 to 17.8% in\n2019. The rate of decline, however, was insufficient to meet SDG target\n3.4.1 of a one-third reduction from 2015 values.\nWhile the risk remains markedly higher for men globally (27.5% compared\nto 18.2% for women), some regions have seen the gender gap close\nconsiderably from 2000 to 2019. In Australia and New Zealand, Northern\nAmerica and Europe and even Sub-Saharan Africa, where the gap has been\nhistorically small, the gender gap has closed by a third or more due to\nslightly greater reductions in premature NCD mortality among men.\nWhereas in Central Asia and Southern Asia as well as Western Asia and\nNorthern Africa the gender gap has declined only slightly in the same\nperiod.\nEven if the rates of decline in premature NCD mortality since 2000 could be\nsustained, no region and just 14 countries would be on track to reach the\nSDG 3.4.1 target. However, preventive, diagnostic and treatment services\nfor NCDs have been disrupted since the COVID-19 pandemic began in early\n2020, threatening progress made in the last two decades. At the same\ntime, the COVID-19 pandemic underscores the need for further attention to\nNCD interventions, as people with underlying NCD conditions have higher\nrisks of severe illness and death from COVID-19. Custodian agency(ies): WHO Indicator 3.4.2: Suicide mortality rate Custodian agency(ies): WHO Probability of dying from any of the foru main NCDs between age 30 and exact age 70, 2000 to 20019 (%) ",
+            "title": "Sustainable Development Goals 2022 Extended Report Goal 3",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Extended Report Goal 3.pdf#:~:text=Additional%20resources%252C%20press,to%2020019%20(%25)"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the goal of Sustainable Development Goal 3?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "The goal of Sustainable Development Goal 3 is to ensure healthy lives and promote well-being for all at all ages.",
+          "snippets": [ {
+            "text": "Additional resources, press releases, etc. with links:\n• Neglected tropical diseases: impact of COVID-19 and WHO’s response – 2021 update. Geneva: World Health Organization, Weekly Epidemiological Record, 2021;\n96(38):461–8 http://apps.who.int/iris/bitstream/handle/10665/345382/WER9638-eng-fre.pdf\n• Ending the neglect to attain the Sustainable Development Goals: a road map for neglected tropical diseases 2021–2030. Geneva: World Health Organization; 2021\nhttps://apps.who.int/iris/handle/10665/338565\nStoryline author(s)/contributor(s): Alexei Mikhailov, WHO; Albis Francesco Gabrielli, WHO; Ashok Moloo, WHO\nCustodian agency(ies): WHO 2 Preventive, curative, surgical or rehabilitative interventions. 3 Neglected tropical diseases: impact of COVID-19 and WHO’s response – 2021 update. Geneva: World Health Organization, Weekly Epidemiological Record. 2021; 96(38):461–8\n(http://apps.who.int/iris/bitstream/handle/10665/345382/WER9638-eng-fre.pdf, accessed 4 February 2022). 4 Ending the neglect to attain the Sustainable Development Goals: a road map for neglected tropical diseases 2021–2030. Geneva: World Health Organization; 2021 (https://apps.who.int/iris/handle/10665/338565,\naccessed 4 February 2022). Proportion of number people requiring interventions against neglected tropical diseases out of\ntotal population Target 3.4: By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and\npromote mental health and well-being\nIndicator 3.4.1: Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease\nMost of the world is not on track to meet the SDG target on noncommunicable diseases\nGlobally, about three-quarters (74%) of all deaths in 2019 were caused by noncommunicable diseases (NCDs). The premature NCD mortality, measured by the unconditional\nprobability of dying from any of the four main NCDs (cardiovascular\ndisease, cancer, diabetes or chronic respiratory disease) between age 30\nand exact age 70, has declined by 22.2% from 22.9% in 2000 to 17.8% in\n2019. The rate of decline, however, was insufficient to meet SDG target\n3.4.1 of a one-third reduction from 2015 values.\nWhile the risk remains markedly higher for men globally (27.5% compared\nto 18.2% for women), some regions have seen the gender gap close\nconsiderably from 2000 to 2019. In Australia and New Zealand, Northern\nAmerica and Europe and even Sub-Saharan Africa, where the gap has been\nhistorically small, the gender gap has closed by a third or more due to\nslightly greater reductions in premature NCD mortality among men.\nWhereas in Central Asia and Southern Asia as well as Western Asia and\nNorthern Africa the gender gap has declined only slightly in the same\nperiod.\nEven if the rates of decline in premature NCD mortality since 2000 could be\nsustained, no region and just 14 countries would be on track to reach the\nSDG 3.4.1 target. However, preventive, diagnostic and treatment services\nfor NCDs have been disrupted since the COVID-19 pandemic began in early\n2020, threatening progress made in the last two decades. At the same\ntime, the COVID-19 pandemic underscores the need for further attention to\nNCD interventions, as people with underlying NCD conditions have higher\nrisks of severe illness and death from COVID-19. Custodian agency(ies): WHO Indicator 3.4.2: Suicide mortality rate Custodian agency(ies): WHO Probability of dying from any of the foru main NCDs between age 30 and exact age 70, 2000 to 20019 (%) ",
+            "title": "Sustainable Development Goals 2022 Extended Report Goal 3",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Extended Report Goal 3.pdf#:~:text=Additional%20resources%252C%20press,to%2020019%20(%25)"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the goal of Sustainable Development Goal 3?\n(A) End poverty in all its forms everywhere\n(B) End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\n(C) Ensure healthy lives and promote well-being for all at all ages\n(D) Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all\nAnswer: C"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a specific hint about the correct choice?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 3 is to ensure that everyone has access to quality healthcare and that everyone is able to live a long and healthy life."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the correct answer for this trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The correct answer can be found in the Sustainable Development Goals 2022 Extended Report Goal 3."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which section of that document contains the answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The correct answer can be found in the section on Target 3.4.1."
+    }
+  } ],
+  "displayName": "SDG Trivias",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

@@ -1,0 +1,85 @@
+{
+  "name": "507a25db-2ab0-49f4-9d4b-f94c3ffef0bf",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a trivia about Sustainable Development Goal 13"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the goal of Sustainable Development Goal 13?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "Goal 13 of the Sustainable Development Goals is to take urgent action to combat climate change and its impacts.",
+          "snippets": [ {
+            "text": "patterns of consumption and production. Companies, especially large and tr ans-national\ncompanies, are particularly encouraged to adopt sustainable practices.\nGoal 13. Take urgent action to combat climate change and its impacts\nClimate change has started to have catastrophic impacts on the environment as well as the\nsocioeconomic dimensions of human life. Global temperature increases must rem ain below 2\ndegrees Celsius in order to avoid further harmful effects on the planet. Climate change\nmitigation and adaptation have are featured prominently in the sustainabl e development\nagenda. SDG 13 aims to strengthen resilience and adaptive capacity to clima te-related hazards\nand natural disasters; to integrate climate change measures into nationa l policies, strategies,\nand planning; and to improve public awareness, human capacity, and institutional capacity.\nGoal 14. Conserve and sustainably use the oceans, seas, and m arine\nresources for sustainable development\nAs the global population expands, countries that rely on marine resources wi ll need to pay\nincreased attention to their conservation. SDG 14 implores all countries - not only those with\ncoastlines - to take into account the sustainability of economic and social acti vities that affect\nmarine ecosystems. This SDG encourages countries to enact policies to protect ma rine and\ncoastal areas and ensure that fishing activities remain at sustainable l evels. Further important\npoints include the maintenance of ocean pH levels, the certification of fisheries\n, mangrove\nreplenishment, coral reef ecosystem protection, and monitoring the eutrophication of estuaries.\nSDG 14 stakeholders are primarily coastal and island nations.\nGoal 15. Protect, restore, and promote sustainable use of terr estrial\necosystems, sustainably manage forests, combat desertifica tion, halt and\nreverse land degradation, and halt biodiversity loss\nNature is under anthropogenic stress. Many species around the world are threatened by\nextinction, and fertile soil and land resources are being lost. To curb thi s alarming trend, it is\ncrucial to properly address biodiversity loss, desertification, and land d egradation. SDG 15 aims\nto ensure conservation, restoration, and the sustainable management of terrestria l and inland\nfreshwater ecosystems and their services (specifically forests, wetlands, moun tains, and\ndrylands).\nGoal 16. Promote peaceful and inclusive societies for sustai nable\ndevelopment, provide access to justice for all, and build effe ctive,\naccountable, and inclusive institutions at all levels\nSDG 16 aims for societies to be peaceful and inclusive by ensuring justice for all people through\neffective, accountable, and inclusive institutions. All forms of abuse, exp loitation, trafficking,\ntorture, and violence must be prevented. Nations must combat organized crime an d activities\nthat facilitate crime, such as illicit financial and arms flows. S DG 16 also encourages the recovery\nof stolen assets and the reduction of corruption and bribery. To attain these idea ls, effective,\naccountable, and transparent institutions at all levels need to be developed and s trengthened. 94 ",
+            "title": "Handbook_for_the_Sustainable_Development",
+            "uri": "gs://sustainable-development-goals/Handbook_for_the_Sustainable_Development.pdf#:~:text=patterns%20of%20consumption,s%20trengthened.%2094"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the goal of Sustainable Development Goal 13?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "Goal 13 of the Sustainable Development Goals is to take urgent action to combat climate change and its impacts.",
+          "snippets": [ {
+            "text": "patterns of consumption and production. Companies, especially large and tr ans-national\ncompanies, are particularly encouraged to adopt sustainable practices.\nGoal 13. Take urgent action to combat climate change and its impacts\nClimate change has started to have catastrophic impacts on the environment as well as the\nsocioeconomic dimensions of human life. Global temperature increases must rem ain below 2\ndegrees Celsius in order to avoid further harmful effects on the planet. Climate change\nmitigation and adaptation have are featured prominently in the sustainabl e development\nagenda. SDG 13 aims to strengthen resilience and adaptive capacity to clima te-related hazards\nand natural disasters; to integrate climate change measures into nationa l policies, strategies,\nand planning; and to improve public awareness, human capacity, and institutional capacity.\nGoal 14. Conserve and sustainably use the oceans, seas, and m arine\nresources for sustainable development\nAs the global population expands, countries that rely on marine resources wi ll need to pay\nincreased attention to their conservation. SDG 14 implores all countries - not only those with\ncoastlines - to take into account the sustainability of economic and social acti vities that affect\nmarine ecosystems. This SDG encourages countries to enact policies to protect ma rine and\ncoastal areas and ensure that fishing activities remain at sustainable l evels. Further important\npoints include the maintenance of ocean pH levels, the certification of fisheries\n, mangrove\nreplenishment, coral reef ecosystem protection, and monitoring the eutrophication of estuaries.\nSDG 14 stakeholders are primarily coastal and island nations.\nGoal 15. Protect, restore, and promote sustainable use of terr estrial\necosystems, sustainably manage forests, combat desertifica tion, halt and\nreverse land degradation, and halt biodiversity loss\nNature is under anthropogenic stress. Many species around the world are threatened by\nextinction, and fertile soil and land resources are being lost. To curb thi s alarming trend, it is\ncrucial to properly address biodiversity loss, desertification, and land d egradation. SDG 15 aims\nto ensure conservation, restoration, and the sustainable management of terrestria l and inland\nfreshwater ecosystems and their services (specifically forests, wetlands, moun tains, and\ndrylands).\nGoal 16. Promote peaceful and inclusive societies for sustai nable\ndevelopment, provide access to justice for all, and build effe ctive,\naccountable, and inclusive institutions at all levels\nSDG 16 aims for societies to be peaceful and inclusive by ensuring justice for all people through\neffective, accountable, and inclusive institutions. All forms of abuse, exp loitation, trafficking,\ntorture, and violence must be prevented. Nations must combat organized crime an d activities\nthat facilitate crime, such as illicit financial and arms flows. S DG 16 also encourages the recovery\nof stolen assets and the reduction of corruption and bribery. To attain these idea ls, effective,\naccountable, and transparent institutions at all levels need to be developed and s trengthened. 94 ",
+            "title": "Handbook_for_the_Sustainable_Development",
+            "uri": "gs://sustainable-development-goals/Handbook_for_the_Sustainable_Development.pdf#:~:text=patterns%20of%20consumption,s%20trengthened.%2094"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the goal of Sustainable Development Goal 13?\n(A) End poverty in all its forms everywhere\n(B) End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\n(C) Take urgent action to combat climate change and its impacts\n(D) Conserve and sustainably use the oceans, seas, and marine resources for sustainable development\nAnswer: C"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a hint about the correct choice?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 13 is to address a critical issue that affects the entire planet and all of its inhabitants."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a more specific hint?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 13 is to address a critical issue that is caused by human activities and is having a significant impact on the environment."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the answer to the trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to the trivia can be found in the Handbook for the Sustainable Development Goals, which is available online."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which section of that document contains the solution?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the section on Sustainable Development Goal 13."
+    }
+  } ],
+  "displayName": "SDG 13 trivia",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

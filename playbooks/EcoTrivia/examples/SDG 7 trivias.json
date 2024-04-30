@@ -1,0 +1,154 @@
+{
+  "name": "b383840d-69a6-40cc-9ec9-8a0566bf85e7",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a trivia about Sustainable Development Goal 7"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the goal of Sustainable Development Goal 7?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "The goal of Sustainable Development Goal 7 is to \"ensure access to affordable, reliable, sustainable and modern energy for all\".",
+          "snippets": [ {
+            "text": "The Sustainable Development Goals\nExtended Report 2022 Note: The Statistics Division of the United Nations Department of Economic and Social Affairs (UNSD) prepares the\nannual The Sustainable Development Goals Report, also known as the glossy report, based on storyline inputs\nsubmitted by UN international agencies in their capacity as mandated custodian agencies for the SDG indicators.\nHowever, due to space constraints, not all information received from custodian agencies is able to be included in the\nfinal glossy report. Therefore, in order to provide the general public with all information regarding the indicators,\nthis ‘Extended Report’ has been prepared by UNSD. It includes all storyline contents for each indicator as provided\nby the custodian agencies and is unedited. For instances where the custodian agency has not submitted a storyline\nfor an indicator, please see the custodian agency focal point information linked for further information. Contents\nIndicator 7.1.1: Proportion of population with access to electricity................................................................................................................................................................ 2\nIndicator 7.1.2: Proportion of population with primary reliance on clean fuels and technology......................................................................................................................... 3\nIndicator 7.2.1: Renewable energy share in the total final energy consumption.............................................................................................................................................. 4\nIndicator 7.3.1: Energy intensity measured in terms of primary energy and GDP ............................................................................................................................................. 5\nIndicator 7.a.1: International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid\nsystems.................................................................................................................................................................................................................................................. 6\nIndicator 7.b.1/12.a.1: Installed renewable energy-generating capacity in developing countries (in watts per capita) ........................................................................................\n7 ",
+            "title": "Sustainable Development Goals 2022 Extended Report Goal 7",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Extended Report Goal 7.pdf"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the goal of Sustainable Development Goal 7?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "The goal of Sustainable Development Goal 7 is to \"ensure access to affordable, reliable, sustainable and modern energy for all\".",
+          "snippets": [ {
+            "text": "The Sustainable Development Goals\nExtended Report 2022 Note: The Statistics Division of the United Nations Department of Economic and Social Affairs (UNSD) prepares the\nannual The Sustainable Development Goals Report, also known as the glossy report, based on storyline inputs\nsubmitted by UN international agencies in their capacity as mandated custodian agencies for the SDG indicators.\nHowever, due to space constraints, not all information received from custodian agencies is able to be included in the\nfinal glossy report. Therefore, in order to provide the general public with all information regarding the indicators,\nthis ‘Extended Report’ has been prepared by UNSD. It includes all storyline contents for each indicator as provided\nby the custodian agencies and is unedited. For instances where the custodian agency has not submitted a storyline\nfor an indicator, please see the custodian agency focal point information linked for further information. Contents\nIndicator 7.1.1: Proportion of population with access to electricity................................................................................................................................................................ 2\nIndicator 7.1.2: Proportion of population with primary reliance on clean fuels and technology......................................................................................................................... 3\nIndicator 7.2.1: Renewable energy share in the total final energy consumption.............................................................................................................................................. 4\nIndicator 7.3.1: Energy intensity measured in terms of primary energy and GDP ............................................................................................................................................. 5\nIndicator 7.a.1: International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid\nsystems.................................................................................................................................................................................................................................................. 6\nIndicator 7.b.1/12.a.1: Installed renewable energy-generating capacity in developing countries (in watts per capita) ........................................................................................\n7 ",
+            "title": "Sustainable Development Goals 2022 Extended Report Goal 7",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Extended Report Goal 7.pdf"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the goal of Sustainable Development Goal 7?\n(A) End poverty in all its forms everywhere\n(B) End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\n(C) Ensure access to affordable, reliable, sustainable and modern energy for all\n(D) Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all\nAnswer: C"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a hint about the correct choice?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 7 is to address a critical issue that affects the lives of billions of people around the world."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Give me a more specific hint please"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 7 is to address a critical issue that affects the ability of people to meet their basic needs and improve their quality of life."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the answer to this trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to the trivia can be found in the Sustainable Development Goals 2022 Extended Report, which is available online."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of that document contains the correct answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the section on Sustainable Development Goal 7."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Come up with a trivia about the progress of Sustainable Development Goal 7"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the progress of Sustainable Development Goal 7?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "In 2020, the electricity access rate of the Least Developed Countries (LDCs) remained at a low level of 55 percent, leaving 479 million unserved people, equivalent to more than half of the world population without access.",
+          "snippets": [ {
+            "text": "The electricity access rate of the Least Developed Countries (LDCs) remained at low level of 55 percent in 2020, leaving\n479 million unserved people, equivalent to more than half of the world population without access. For urban-rural disaggregation in electrification in the LDCs, the global rural\naccess rate has grown faster than urban rate since 2010. However, in 2020, 44 percent of people living in rural areas had access to electricity while it increased to 78 percent in\nurban settings. Therefore, further efforts to scale up access in the LDCs and remote areas are necessary to meet the target by 2030.Additional resources, press releases, etc. with links:\n• Tracking SDG7: The Energy Progress Report; Link: https://trackingsdg7.esmap.org/downloads\nStoryline author(s)/contributor(s): Elisa Portale, World Bank; Juliette Besnard, World Bank; Jiyun Park, World Bank\nCustodian agency(ies): World Bank ",
+            "title": "Sustainable Development Goals 2022 Extended Report Goal 7",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Extended Report Goal 7.pdf#:~:text=The%20electricity%20access,agency(ies):%20World%20Bank"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the progress of Sustainable Development Goal 7?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "In 2020, the electricity access rate of the Least Developed Countries (LDCs) remained at a low level of 55 percent, leaving 479 million unserved people, equivalent to more than half of the world population without access.",
+          "snippets": [ {
+            "text": "The electricity access rate of the Least Developed Countries (LDCs) remained at low level of 55 percent in 2020, leaving\n479 million unserved people, equivalent to more than half of the world population without access. For urban-rural disaggregation in electrification in the LDCs, the global rural\naccess rate has grown faster than urban rate since 2010. However, in 2020, 44 percent of people living in rural areas had access to electricity while it increased to 78 percent in\nurban settings. Therefore, further efforts to scale up access in the LDCs and remote areas are necessary to meet the target by 2030.Additional resources, press releases, etc. with links:\n• Tracking SDG7: The Energy Progress Report; Link: https://trackingsdg7.esmap.org/downloads\nStoryline author(s)/contributor(s): Elisa Portale, World Bank; Juliette Besnard, World Bank; Jiyun Park, World Bank\nCustodian agency(ies): World Bank ",
+            "title": "Sustainable Development Goals 2022 Extended Report Goal 7",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Extended Report Goal 7.pdf#:~:text=The%20electricity%20access,agency(ies):%20World%20Bank"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the progress of Sustainable Development Goal 7?\n(A) The world is on track to achieve all of the targets for Sustainable Development Goal 7.\n(B) The world is making progress towards achieving the targets for Sustainable Development Goal 7, but there is still more work to be done.\n(C) The world is not on track to achieve any of the targets for Sustainable Development Goal 7.\n(D) The data on the progress of Sustainable Development Goal 7 is inconclusive.\nAnswer: B"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Give me a hint about the right choice"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The world is making progress towards achieving the targets for Sustainable Development Goal 7, but there are still significant challenges that need to be addressed."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the answer to the trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to the trivia can be found in the Sustainable Development Goals 2022 Extended Report."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of the document contains the answer"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the section on the progress of Sustainable Development Goal 7."
+    }
+  } ],
+  "displayName": "SDG 7 trivias",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

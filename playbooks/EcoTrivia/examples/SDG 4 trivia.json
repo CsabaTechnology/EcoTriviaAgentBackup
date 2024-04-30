@@ -1,0 +1,85 @@
+{
+  "name": "7c591c46-3153-4630-9b74-266f93859d07",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a trivia about Sustainable Development Goal 4"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the goal of Sustainable Development Goal 4?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "Goal 4 of the Sustainable Development Goals is to \"Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.\"",
+          "snippets": [ {
+            "text": "Intergovernmental Committee of Experts on Sustainable Development Finance IDDRI The Institute for Sustainable Development and International Relations IEA International Energy Agency IEAG Independent Expert Advisory Group IFAD International Fund for Agricultural Development IISD International Institute for Sustainable Development INDC Intended Nationally-Determined Contributions IPCC Intergovernmental Panel on Climate Change LDCs Least Developed Countries LLDCs Landlocked Developing Countries MDGs Millennium Development Goals MSL Multiple Sustainable Land-Use NCSD National Council or Commission for Sustainable Development NDDP National Deep Decarbonization Pathway NDMC Nationally-Determined Mitigation Contributions NSDS National Sustainable Development Strategy NSDV National Sustainable Development Vision NSO National Statistics Office NSS National Statistical System ODA Official Development Assistance OECD Organization for Economic Cooperation and Development OOF Other Official Flows OWG Open Working Group on Sustainable Development Goals PPP Public Private Partnership R\u0026D Research and Development Rio+20 United Nations Conference on Sustainable Development Rio+20 SDGs Sustainable Development Goals SDSN Sustainable Development Solutions Network SIDS Small Island Developing States STD Sustainable Technology Development STEEPLE Society, Technology, Environment, Economics, Politics, Legal, Ethical Framework UN United Nations UNCT United Nations Country Team UNDP United Nations Development Programme UNFCCC United Nations Framework Convention on Climate Change UNSD United Nations Statistics Division WHO World Health Organization WSSD World Summit for Sustainable Development Chapter 1:\nIntroduction Source: www.UnSplash.com I. Getting Started with the SDGs The Sustainable Development Goals (SDGs) will be signed on September 25, 2015. By definition,\nsustainable development is a normative outlook that calls for a “world in whic h economic\nprogress is widespread; extreme poverty is eliminated; social trust is encourag ed through\npolicies that strengthen the community; and the environment is protected from human induced\ndegradation.” This guide aims to provide a holistic understanding of the current state of\nsustainable development and the context for these global aspirations as countr ies initiate the\nprocess of creating a National Sustainable Development Strategy (NSDS) to enable p rogress\ntoward achieving the SDGs.\nThe successful implementation of the SDGs will require global engagement at every level:\ngovernments, businesses, scientists, civil society leaders, nonprofit organizati ons, and the\npopulation at large. The guide provides a framework for all stakeholders to b egin aligning\nnational goals and development pathways with the SDG targets and describes relevan t\nmanagement and planning tools for this process. The Sustainable Development Goals Goal 1. End poverty in all its forms everywhere.\nGoal 2. End hunger, achieve food security and improved nutrition, and promote sustainable agriculture.\nGoal 3. Ensure healthy lives and promote well-being for all at all ages.\nGoal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.\nGoal 5. Achieve gender equality and empower all women and girls.\nGoal 6. Ensure availability and sustainable management of water and sanitation for all.\nGoal 7. Ensure access to affordable, reliable, sustainable, and modern energy for all.\nGoal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employm ent and decent work for all. ",
+            "title": "Handbook_for_the_Sustainable_Development",
+            "uri": "gs://sustainable-development-goals/Handbook_for_the_Sustainable_Development.pdf#:~:text=Intergovernmental%20Committee%20of,work%20for%20all."
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the goal of Sustainable Development Goal 4?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "Goal 4 of the Sustainable Development Goals is to \"Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.\"",
+          "snippets": [ {
+            "text": "Intergovernmental Committee of Experts on Sustainable Development Finance IDDRI The Institute for Sustainable Development and International Relations IEA International Energy Agency IEAG Independent Expert Advisory Group IFAD International Fund for Agricultural Development IISD International Institute for Sustainable Development INDC Intended Nationally-Determined Contributions IPCC Intergovernmental Panel on Climate Change LDCs Least Developed Countries LLDCs Landlocked Developing Countries MDGs Millennium Development Goals MSL Multiple Sustainable Land-Use NCSD National Council or Commission for Sustainable Development NDDP National Deep Decarbonization Pathway NDMC Nationally-Determined Mitigation Contributions NSDS National Sustainable Development Strategy NSDV National Sustainable Development Vision NSO National Statistics Office NSS National Statistical System ODA Official Development Assistance OECD Organization for Economic Cooperation and Development OOF Other Official Flows OWG Open Working Group on Sustainable Development Goals PPP Public Private Partnership R\u0026D Research and Development Rio+20 United Nations Conference on Sustainable Development Rio+20 SDGs Sustainable Development Goals SDSN Sustainable Development Solutions Network SIDS Small Island Developing States STD Sustainable Technology Development STEEPLE Society, Technology, Environment, Economics, Politics, Legal, Ethical Framework UN United Nations UNCT United Nations Country Team UNDP United Nations Development Programme UNFCCC United Nations Framework Convention on Climate Change UNSD United Nations Statistics Division WHO World Health Organization WSSD World Summit for Sustainable Development Chapter 1:\nIntroduction Source: www.UnSplash.com I. Getting Started with the SDGs The Sustainable Development Goals (SDGs) will be signed on September 25, 2015. By definition,\nsustainable development is a normative outlook that calls for a “world in whic h economic\nprogress is widespread; extreme poverty is eliminated; social trust is encourag ed through\npolicies that strengthen the community; and the environment is protected from human induced\ndegradation.” This guide aims to provide a holistic understanding of the current state of\nsustainable development and the context for these global aspirations as countr ies initiate the\nprocess of creating a National Sustainable Development Strategy (NSDS) to enable p rogress\ntoward achieving the SDGs.\nThe successful implementation of the SDGs will require global engagement at every level:\ngovernments, businesses, scientists, civil society leaders, nonprofit organizati ons, and the\npopulation at large. The guide provides a framework for all stakeholders to b egin aligning\nnational goals and development pathways with the SDG targets and describes relevan t\nmanagement and planning tools for this process. The Sustainable Development Goals Goal 1. End poverty in all its forms everywhere.\nGoal 2. End hunger, achieve food security and improved nutrition, and promote sustainable agriculture.\nGoal 3. Ensure healthy lives and promote well-being for all at all ages.\nGoal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.\nGoal 5. Achieve gender equality and empower all women and girls.\nGoal 6. Ensure availability and sustainable management of water and sanitation for all.\nGoal 7. Ensure access to affordable, reliable, sustainable, and modern energy for all.\nGoal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employm ent and decent work for all. ",
+            "title": "Handbook_for_the_Sustainable_Development",
+            "uri": "gs://sustainable-development-goals/Handbook_for_the_Sustainable_Development.pdf#:~:text=Intergovernmental%20Committee%20of,work%20for%20all."
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the goal of Sustainable Development Goal 4?\n(A) End poverty in all its forms everywhere\n(B) End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\n(C) Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all\n(D) Achieve gender equality and empower all women and girls\nAnswer: C"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a hint about the right choice?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 4 is to ensure that everyone has access to quality education and lifelong learning opportunities."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a less specific hint about the correct choice?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 4 is to address a fundamental issue that affects people of all ages."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the answer to this trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to the trivia can be found in the Handbook for the Sustainable Development Goals, which is available online."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of that document has the answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the section on Sustainable Development Goal 4."
+    }
+  } ],
+  "displayName": "SDG 4 trivia",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

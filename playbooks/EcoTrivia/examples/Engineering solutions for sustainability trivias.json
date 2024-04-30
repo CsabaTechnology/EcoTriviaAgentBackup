@@ -1,0 +1,125 @@
+{
+  "name": "2bf10690-aaf6-4be5-817a-ab1ff7de7dd7",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a trivia about engineering solutions for sustainability?"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What are some engineering solutions for sustainability?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "Engineering solutions for sustainability include cleaner technologies, substituting high impacts with lower impacts, designing systems to mitigate environmental problems, improving efficiencies and through innovation.",
+          "snippets": [ {
+            "text": "ENGINEERING AND PRODUCING A SUSTAINABLE MATERIAL\nSUPPLY: CHALLENGES AND OPPORTUNITIES Dayan Anderson, Brajendra Mishra, Jeffrey Fergus Introduction “Think not of what you see, but what it took to produce what you see.”\n-Benoit Mandelbrot With impending and burgeoning societal issues affecting both developed and emerging\nnations, the global engineering community has a responsibility and an opportunity to truly\nmake a difference and contribute to a sustainable future. A view of sustainability from the\nperspective of materials and resources encompasses two interdependent aspects: the\nproduction of those materials and resources and the designs of the products and applications\nthat will use them. This symposium, a follow-on to the 2009 Engineering Solutions for\nSustainability: Materials and Resources workshop hosted by the same groups in Lausanne,\nSwitzerland, focused on materials and resources integral to meeting basic societal\nsustainability needs in critical areas of energy transportation, housing, and recycling. The\nfollowing plenary speakers shared valuable perspectives from their respective sectors; these\ninsights and the resulting symposium discussions are reflected in this synthesis.\nGlobal Materials Resource Challenges (Opportunities) for the 21st Century - Diran\nApelian, Worcestor Polytechnic Institute\nSustainability: A Business Imperative, Not a Moral Sacrifice - Behrooz Fattahi,\nTheEnerTrain Institute. Sustainability sing Biotechnology for the Chemical Industries June Wispelwey,\nAIChE\nA Healthy Home s a Fractal Home - Matthew Grocoff, THRIVE Net Zero Energy\nCollaborative\nSustainable Development Practices in the Minerals Industry - Jessica Elzea Kogel,\nImerys\nSustainable Policy from Washington and the States: A Role for the Engineer - Mark\nBurtschi, ArcelorMittal USA Enabling Change for a Sustainable Future\nThe Role of the Engineer “The engineering profession must lead the way and be seen to lead the way towards a more\nsustainable future.”\n-World Federation of Engineering Organizations 4 As defined by the Word Federation of Engineering Organizations (WFEO), engineers can\nadvocate for and contribute to a positive future: through cleaner technologies, by substituting\nhigh impacts with lower impacts, by designing systems to mitigate environmental problems, by\nimproving efficiencies and through innovation. However, engineers are typically evaluated\nagainst short-term financial goals, which may often be at odds with long-term sustainable\ndevelopment mission and goals, as well as being at odds with the perspectives and values of the\nlocal community. In this challenging environment, engineers are expected to (1) show\nsensitivity to local communities, (2) provide robust information to decision-makers, (3) assume\nleadership, (4) understand risk and (5) seek innovative solutions. To help engineers navigate\nthese challenges and be effective as they can be, the WFEO has established a Model Code of\nPractice that embraces 10 principles summarized in Table 1. ",
+            "title": "Engineering_Solutions_for_Sustainability",
+            "uri": "gs://sustainable-development-goals/Engineering_Solutions_for_Sustainability.pdf#:~:text=ENGINEERING%20AND%20PRODUCING,in%20Table%201."
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What are some engineering solutions for sustainability?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "Engineering solutions for sustainability include cleaner technologies, substituting high impacts with lower impacts, designing systems to mitigate environmental problems, improving efficiencies and through innovation.",
+          "snippets": [ {
+            "text": "ENGINEERING AND PRODUCING A SUSTAINABLE MATERIAL\nSUPPLY: CHALLENGES AND OPPORTUNITIES Dayan Anderson, Brajendra Mishra, Jeffrey Fergus Introduction “Think not of what you see, but what it took to produce what you see.”\n-Benoit Mandelbrot With impending and burgeoning societal issues affecting both developed and emerging\nnations, the global engineering community has a responsibility and an opportunity to truly\nmake a difference and contribute to a sustainable future. A view of sustainability from the\nperspective of materials and resources encompasses two interdependent aspects: the\nproduction of those materials and resources and the designs of the products and applications\nthat will use them. This symposium, a follow-on to the 2009 Engineering Solutions for\nSustainability: Materials and Resources workshop hosted by the same groups in Lausanne,\nSwitzerland, focused on materials and resources integral to meeting basic societal\nsustainability needs in critical areas of energy transportation, housing, and recycling. The\nfollowing plenary speakers shared valuable perspectives from their respective sectors; these\ninsights and the resulting symposium discussions are reflected in this synthesis.\nGlobal Materials Resource Challenges (Opportunities) for the 21st Century - Diran\nApelian, Worcestor Polytechnic Institute\nSustainability: A Business Imperative, Not a Moral Sacrifice - Behrooz Fattahi,\nTheEnerTrain Institute. Sustainability sing Biotechnology for the Chemical Industries June Wispelwey,\nAIChE\nA Healthy Home s a Fractal Home - Matthew Grocoff, THRIVE Net Zero Energy\nCollaborative\nSustainable Development Practices in the Minerals Industry - Jessica Elzea Kogel,\nImerys\nSustainable Policy from Washington and the States: A Role for the Engineer - Mark\nBurtschi, ArcelorMittal USA Enabling Change for a Sustainable Future\nThe Role of the Engineer “The engineering profession must lead the way and be seen to lead the way towards a more\nsustainable future.”\n-World Federation of Engineering Organizations 4 As defined by the Word Federation of Engineering Organizations (WFEO), engineers can\nadvocate for and contribute to a positive future: through cleaner technologies, by substituting\nhigh impacts with lower impacts, by designing systems to mitigate environmental problems, by\nimproving efficiencies and through innovation. However, engineers are typically evaluated\nagainst short-term financial goals, which may often be at odds with long-term sustainable\ndevelopment mission and goals, as well as being at odds with the perspectives and values of the\nlocal community. In this challenging environment, engineers are expected to (1) show\nsensitivity to local communities, (2) provide robust information to decision-makers, (3) assume\nleadership, (4) understand risk and (5) seek innovative solutions. To help engineers navigate\nthese challenges and be effective as they can be, the WFEO has established a Model Code of\nPractice that embraces 10 principles summarized in Table 1. ",
+            "title": "Engineering_Solutions_for_Sustainability",
+            "uri": "gs://sustainable-development-goals/Engineering_Solutions_for_Sustainability.pdf#:~:text=ENGINEERING%20AND%20PRODUCING,in%20Table%201."
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What are some engineering solutions for sustainability?\n(A) Cleaner technologies\n(B) Substituting high impacts with lower impacts\n(C) Designing systems to mitigate environmental problems\n(D) All of the above\nAnswer: D"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Give a hint about the correct choice"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Engineering solutions for sustainability involve finding ways to reduce environmental impact and promote sustainability."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Do you have a more specific hint?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Engineering solutions for sustainability often involve using new technologies or finding new ways to use existing technologies to reduce environmental impact."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the solution for the trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The solution for the trivia can be found in the Engineering Solutions for Sustainability document."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of this document contains the answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The solution can be found in the section on \"Engineering and Producing a Sustainable Material Supply: Challenges and Opportunities\"."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Do you have a harder trivia about engineering solutions for sustainability?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the role of engineers in promoting sustainability?\n(A) Advocating for and contributing to a positive future\n(B) Designing systems to mitigate environmental problems\n(C) Improving efficiencies and innovating\n(D) All of the above\nAnswer: D"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Do you have a hint towards the correct choice?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Engineers play a crucial role in promoting sustainability by using their knowledge and skills to find solutions to environmental challenges."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give more specific hint towards solving the trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Engineers can contribute to sustainability by developing new technologies, improving existing technologies, and designing systems that are more environmentally friendly."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the answer to this trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to the trivia can be found in the Engineering Solutions for Sustainability document."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of that document contains the answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the section on \"The Role of the Engineer\"."
+    }
+  } ],
+  "displayName": "Engineering solutions for sustainability trivias",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

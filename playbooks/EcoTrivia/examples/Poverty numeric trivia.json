@@ -1,0 +1,77 @@
+{
+  "name": "b8bd8eb8-49a7-445e-bb04-f2a40d3a396d",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a trivia with numeric information about a Sustainable Development Goal"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the percentage of the world's population that lives in extreme poverty?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "In 2022, 8.4% of the world's population, or as many as 670 million people, could still be living in extreme poverty.",
+          "snippets": [ {
+            "text": "Slow and uneven progress on poverty reduction may leave hundreds of millions in extreme poverty\nby 2030\nExtreme poverty, currently defined as living on less than $2.15 per person per\nday at 2017 purchasing power parity, had experienced a significant decline in\nrecent decades. However, COVID-19 reversed this positive trend. Even before\nthe pandemic, the pace of poverty reduction was slowing, with extreme\npoverty falling from 10.8 per cent in 2015 to 8.4 per cent in 2019. The\naverage annual reduction rate was 0.54 percentage points between 2015\nand 2019, less than half the 1.28 percentage-point rate observed between\n2000 and 2014. In 2020, the number of people living in extreme poverty\nrose to 724 million, surpassing the pre-pandemic projection by 90 million\nand reversing approximately three years of progress on poverty reduction.\nRecovery from the pandemic has been slow and uneven, with extreme\npoverty dropping from 9.3 per cent in 2020 to 8.8 per cent in 2021. About\n41 per cent of low-income countries experienced a higher poverty rate\nin 2021 compared to the previous year, versus only 13 per cent of upper\nmiddle-income countries. The conflict in Ukraine has disrupted global trade,\nleading to increased living costs that are disproportionately impacting the\npoor. Furthermore, climate change poses substantial threats to poverty\nreduction. By the end of 2022, nowcasting suggests that 8.4 per cent of the\nworld’s population, or as many as 670 million people, could still be living in\nextreme poverty. If current trends continue, an estimated 7 per cent of the global population\n– approximately 575 million people – will still be living in extreme poverty by\n2030, with most in sub-Saharan Africa. This projection would represent a\nmeager poverty reduction of less than 30 per cent since 2015.\nProportion of the world’s population living below $2.15/day, 2015–2019 realized\nand 2020–2030 forecast and projected (percentage) 10.8 8.1 7.8 7.5 6.5 8.5 9.3 8.8 8.4 6.8 6 7 8 9 10 11 12 2015 2019 2020 2021 2022 2030 Realized Pre-COVID projection Nowcast/forecast If current trends continue, only one third of countries will halve national poverty by 2030\nThe national poverty line is a measure that is specific to a country’s\neconomic conditions that can help policymakers design targeted\ninterventions and social safety nets. In 2020, 22 out of 39 countries with\ndata saw increases in national poverty rates relative to the previous year.\nGiven the historical trends of 127 countries with data, only one third of\ncountries will have halved their national poverty rates by 2030 from 2015.\nPoverty is a complex and multidimensional challenge. Some countries have\nalso adopted national multidimensional poverty indicators to capture other ",
+            "title": "Sustainable Development Goals 2023 Report Special Edition",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2023 Report Special Edition.pdf#:~:text=Slow%20and%20uneven,to%20capture%20other"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the percentage of the world's population that lives in extreme poverty?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "In 2022, 8.4% of the world's population, or as many as 670 million people, could still be living in extreme poverty.",
+          "snippets": [ {
+            "text": "Slow and uneven progress on poverty reduction may leave hundreds of millions in extreme poverty\nby 2030\nExtreme poverty, currently defined as living on less than $2.15 per person per\nday at 2017 purchasing power parity, had experienced a significant decline in\nrecent decades. However, COVID-19 reversed this positive trend. Even before\nthe pandemic, the pace of poverty reduction was slowing, with extreme\npoverty falling from 10.8 per cent in 2015 to 8.4 per cent in 2019. The\naverage annual reduction rate was 0.54 percentage points between 2015\nand 2019, less than half the 1.28 percentage-point rate observed between\n2000 and 2014. In 2020, the number of people living in extreme poverty\nrose to 724 million, surpassing the pre-pandemic projection by 90 million\nand reversing approximately three years of progress on poverty reduction.\nRecovery from the pandemic has been slow and uneven, with extreme\npoverty dropping from 9.3 per cent in 2020 to 8.8 per cent in 2021. About\n41 per cent of low-income countries experienced a higher poverty rate\nin 2021 compared to the previous year, versus only 13 per cent of upper\nmiddle-income countries. The conflict in Ukraine has disrupted global trade,\nleading to increased living costs that are disproportionately impacting the\npoor. Furthermore, climate change poses substantial threats to poverty\nreduction. By the end of 2022, nowcasting suggests that 8.4 per cent of the\nworld’s population, or as many as 670 million people, could still be living in\nextreme poverty. If current trends continue, an estimated 7 per cent of the global population\n– approximately 575 million people – will still be living in extreme poverty by\n2030, with most in sub-Saharan Africa. This projection would represent a\nmeager poverty reduction of less than 30 per cent since 2015.\nProportion of the world’s population living below $2.15/day, 2015–2019 realized\nand 2020–2030 forecast and projected (percentage) 10.8 8.1 7.8 7.5 6.5 8.5 9.3 8.8 8.4 6.8 6 7 8 9 10 11 12 2015 2019 2020 2021 2022 2030 Realized Pre-COVID projection Nowcast/forecast If current trends continue, only one third of countries will halve national poverty by 2030\nThe national poverty line is a measure that is specific to a country’s\neconomic conditions that can help policymakers design targeted\ninterventions and social safety nets. In 2020, 22 out of 39 countries with\ndata saw increases in national poverty rates relative to the previous year.\nGiven the historical trends of 127 countries with data, only one third of\ncountries will have halved their national poverty rates by 2030 from 2015.\nPoverty is a complex and multidimensional challenge. Some countries have\nalso adopted national multidimensional poverty indicators to capture other ",
+            "title": "Sustainable Development Goals 2023 Report Special Edition",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2023 Report Special Edition.pdf#:~:text=Slow%20and%20uneven,to%20capture%20other"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the percentage of the world's population that lives in extreme poverty?\n(A) 5%\n(B) 8.4%\n(C) 10%\n(D) 15%\nAnswer: B"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Give me a hint about the right answer"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The percentage of the world's population that lives in extreme poverty is less than 10%."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the answer to the trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to the trivia can be found in the Sustainable Development Goals 2023 Report Special Edition."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of the document contains the answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the section on poverty."
+    }
+  } ],
+  "displayName": "Poverty numeric trivia",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

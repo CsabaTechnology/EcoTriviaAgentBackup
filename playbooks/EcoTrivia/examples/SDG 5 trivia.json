@@ -1,0 +1,85 @@
+{
+  "name": "82c1e935-a585-40ec-97fb-8fffc0e51a20",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a trivia about Sustainable Development Goal 5"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the goal of Sustainable Development Goal 5?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "Goal 5 of the Sustainable Development Goals is to achieve gender equality and empower all women and girls.",
+          "snippets": [ {
+            "text": "Goal 5 | Achieve gender equality and empower all women and girls Eliminate child marriage5 Ensure women’s full participation and equal\nopportunities in national parliaments Goal 6 | Ensure availability and sustainable management of water and sanitation for all Achieve universal access to safely managed\ndrinking water services7 Achieve universal access to safely managed\nsanitation services7 3 Goal and targets World Sub-Saharan\nAfrica Northern\nAfrica and\nWestern Asia Central and\nSouthern Asia Eastern and\nSouth-Eastern\nAsia Latin America\nand the\nCaribbean Pacific island\ncountries* Developed\ncountries* Goal 7 | Ensure access to affordable, reliable, sustainable and modern energy for all Achieve universal access to electricity Double the global rate of improvement\nin energy efficiency5, 8 Goal 8 | Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all Sustain per capita economic growth9 Achieve full employment Goal 9 | Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation Significantly raise industry’s share of GDP Substantially increase the expenditure for\nscientific research and development as a\nproportion of GDP Increase access to mobile networks Goal 10 | Reduce inequality within and among countries Reduce inequality within countries5, 10 4 Goal and targets World Sub-Saharan\nAfrica Northern\nAfrica and\nWestern Asia Central and\nSouthern Asia Eastern and\nSouth-Eastern\nAsia Latin America\nand the\nCaribbean Pacific island\ncountries* Developed\ncountries* Goal 11 | Make cities and human settlements inclusive, safe, resilient and sustainable Reduce the proportion of urban population\nliving in slums Goal 12 | Ensure sustainable consumption and production patterns Reduce the domestic material consumption\nper unit of GDP Rationalize inefficient fossil-fuel subsidies\nper unit of GDP Goal 13 | Take urgent action to combat climate change and its impacts Reduce global greenhouse gas emissions11, 12 Goal 14 | Conserve and sustainably use the oceans, seas and marine resources for sustainable development Increase the proportion of fish stocks within\nbiologically sustainable levels11 Increase the coverage of protected areas in\nrelation to marine Key Biodiversity Areas7 Goal 15 | Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss By 2020, ensure the conservation, restoration\nand sustainable use of terrestrial ecosystems7 By 2020, protect and prevent the extinction\nof threatened species7, 13 5 Goal and targets World Sub-Saharan\nAfrica Northern\nAfrica and\nWestern Asia Central and\nSouthern Asia Eastern and\nSouth-Eastern\nAsia Latin America\nand the\nCaribbean Pacific island\ncountries* Developed\ncountries* Goal 16 | Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels Significantly reduce homicide rates14 Reduce the proportion of unsentenced\ndetainees14 Increase the proportion of countries with\nindependent national human rights institutions\nin compliance with the Paris Principles Goal 17 | Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development Ensure full implementation of the net official\ndevelopment assistance disbursements by\ndonor countries11 ",
+            "title": "Sustainable Development Goals 2021 Progress Chart",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2021 Progress Chart.pdf#:~:text=Goal%205%20%7C,by%20donor%20countries11"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the goal of Sustainable Development Goal 5?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "Goal 5 of the Sustainable Development Goals is to achieve gender equality and empower all women and girls.",
+          "snippets": [ {
+            "text": "Goal 5 | Achieve gender equality and empower all women and girls Eliminate child marriage5 Ensure women’s full participation and equal\nopportunities in national parliaments Goal 6 | Ensure availability and sustainable management of water and sanitation for all Achieve universal access to safely managed\ndrinking water services7 Achieve universal access to safely managed\nsanitation services7 3 Goal and targets World Sub-Saharan\nAfrica Northern\nAfrica and\nWestern Asia Central and\nSouthern Asia Eastern and\nSouth-Eastern\nAsia Latin America\nand the\nCaribbean Pacific island\ncountries* Developed\ncountries* Goal 7 | Ensure access to affordable, reliable, sustainable and modern energy for all Achieve universal access to electricity Double the global rate of improvement\nin energy efficiency5, 8 Goal 8 | Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all Sustain per capita economic growth9 Achieve full employment Goal 9 | Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation Significantly raise industry’s share of GDP Substantially increase the expenditure for\nscientific research and development as a\nproportion of GDP Increase access to mobile networks Goal 10 | Reduce inequality within and among countries Reduce inequality within countries5, 10 4 Goal and targets World Sub-Saharan\nAfrica Northern\nAfrica and\nWestern Asia Central and\nSouthern Asia Eastern and\nSouth-Eastern\nAsia Latin America\nand the\nCaribbean Pacific island\ncountries* Developed\ncountries* Goal 11 | Make cities and human settlements inclusive, safe, resilient and sustainable Reduce the proportion of urban population\nliving in slums Goal 12 | Ensure sustainable consumption and production patterns Reduce the domestic material consumption\nper unit of GDP Rationalize inefficient fossil-fuel subsidies\nper unit of GDP Goal 13 | Take urgent action to combat climate change and its impacts Reduce global greenhouse gas emissions11, 12 Goal 14 | Conserve and sustainably use the oceans, seas and marine resources for sustainable development Increase the proportion of fish stocks within\nbiologically sustainable levels11 Increase the coverage of protected areas in\nrelation to marine Key Biodiversity Areas7 Goal 15 | Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss By 2020, ensure the conservation, restoration\nand sustainable use of terrestrial ecosystems7 By 2020, protect and prevent the extinction\nof threatened species7, 13 5 Goal and targets World Sub-Saharan\nAfrica Northern\nAfrica and\nWestern Asia Central and\nSouthern Asia Eastern and\nSouth-Eastern\nAsia Latin America\nand the\nCaribbean Pacific island\ncountries* Developed\ncountries* Goal 16 | Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels Significantly reduce homicide rates14 Reduce the proportion of unsentenced\ndetainees14 Increase the proportion of countries with\nindependent national human rights institutions\nin compliance with the Paris Principles Goal 17 | Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development Ensure full implementation of the net official\ndevelopment assistance disbursements by\ndonor countries11 ",
+            "title": "Sustainable Development Goals 2021 Progress Chart",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2021 Progress Chart.pdf#:~:text=Goal%205%20%7C,by%20donor%20countries11"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the goal of Sustainable Development Goal 5?\n(A) End poverty in all its forms everywhere\n(B) End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\n(C) Ensure healthy lives and promote well-being for all at all ages\n(D) Achieve gender equality and empower all women and girls\nAnswer: D"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a hint about which is the right choice?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 5 is to address a fundamental issue that affects half of the world's population."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a more specific hint about the good answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 5 is to ensure that everyone has equal rights and opportunities, regardless of their gender."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the information for the right answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The information for the right answer can be found in the Sustainable Development Goals 2021 Progress Chart."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of that document contains the solution?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The solution can be found in the section on Sustainable Development Goal 5."
+    }
+  } ],
+  "displayName": "SDG 5 trivia",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

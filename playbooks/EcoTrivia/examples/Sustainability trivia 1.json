@@ -1,0 +1,77 @@
+{
+  "name": "bcbd587f-8af5-4a75-a407-5e556a8ba332",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Can you come up with a trivia about sustainability?"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the definition of sustainability?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "Sustainability is a societal goal that broadly aims for humans to safely co-exist on planet Earth over a long time. Specific definitions of sustainability are difficult to agree on and therefore vary in the literature and over time. Sustainability is commonly described along the lines of three dimensions (also called pillars): environmental, economic and social.",
+          "snippets": [ {
+            "text": "Figure 1. Sustainability concept.\nSource: Purvis et al., 2019.\nSustainability is a societal goal that broadly aims for humans to\nsafely co-exist on planet Earth over a long time. Specific definitions\nof sustainability are difficult to agree on and therefore vary in the\nliterature and over time (Ramsey, 2015; Purvis et al., 2019) Sustainabil\nity is commonly described along the lines of three dimensions (also\ncalled pillars): environmental, economic and social (Purvis et al., 2019)\nThis concept can be used to guide decisions at the global, national\nand individual levels (e.g. sustainable living) (Berg, 2020). In every\nday usage of the term, sustainability tends to be focused mainly on\nthe environmental aspects. The most dominant environmental issues\nsince around 2000 have been climate change, loss of biodiversity, loss\nof ecosystem services, land degradation, and air and water pollution.\nHumanity is now exceeding several “planetary boundaries”. Reducing\nthese negative impacts on the environment would improve environ\nmental sustainability (Daly, 1992).\nSustainable development is an approach to economic planning\nthat attempts to foster economic growth while preserving the quality\nof the environment for future generations. Despite its enormous pop\nularity in the last two decades of the 20th century, the concept of sus\ntainable development proved difficult to apply in many cases, primar\nily because the results of long-term sustainability analyses depend on 125 Sustainable development ",
+            "title": "Sustainability_E-book_for_students",
+            "uri": "gs://sustainable-development-goals/Sustainability_E-book_for_students.pdf#:~:text=Figure%201.%20Sustainability,125%20Sustainable%20development"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the definition of sustainability?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "Sustainability is a societal goal that broadly aims for humans to safely co-exist on planet Earth over a long time. Specific definitions of sustainability are difficult to agree on and therefore vary in the literature and over time. Sustainability is commonly described along the lines of three dimensions (also called pillars): environmental, economic and social.",
+          "snippets": [ {
+            "text": "Figure 1. Sustainability concept.\nSource: Purvis et al., 2019.\nSustainability is a societal goal that broadly aims for humans to\nsafely co-exist on planet Earth over a long time. Specific definitions\nof sustainability are difficult to agree on and therefore vary in the\nliterature and over time (Ramsey, 2015; Purvis et al., 2019) Sustainabil\nity is commonly described along the lines of three dimensions (also\ncalled pillars): environmental, economic and social (Purvis et al., 2019)\nThis concept can be used to guide decisions at the global, national\nand individual levels (e.g. sustainable living) (Berg, 2020). In every\nday usage of the term, sustainability tends to be focused mainly on\nthe environmental aspects. The most dominant environmental issues\nsince around 2000 have been climate change, loss of biodiversity, loss\nof ecosystem services, land degradation, and air and water pollution.\nHumanity is now exceeding several “planetary boundaries”. Reducing\nthese negative impacts on the environment would improve environ\nmental sustainability (Daly, 1992).\nSustainable development is an approach to economic planning\nthat attempts to foster economic growth while preserving the quality\nof the environment for future generations. Despite its enormous pop\nularity in the last two decades of the 20th century, the concept of sus\ntainable development proved difficult to apply in many cases, primar\nily because the results of long-term sustainability analyses depend on 125 Sustainable development ",
+            "title": "Sustainability_E-book_for_students",
+            "uri": "gs://sustainable-development-goals/Sustainability_E-book_for_students.pdf#:~:text=Figure%201.%20Sustainability,125%20Sustainable%20development"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the definition of sustainability?\n(A) Sustainability is a societal goal that broadly aims for humans to safely co-exist on planet Earth over a long time.\n(B) Sustainability is a societal goal that broadly aims for humans to safely co-exist on planet Earth over a short time.\n(C) Sustainability is a societal goal that broadly aims for humans to unsafely co-exist on planet Earth over a long time.\n(D) Sustainability is a societal goal that broadly aims for humans to unsafely co-exist on planet Earth over a short time.\nAnswer: A"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a hint about the correct choice?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Sustainability is a societal goal that aims for humans to live in harmony with the environment and each other."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the answer to this trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to this trivia can be found in the Sustainability E-book for students."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of that document contains the answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the Introduction section of the Sustainability E-book for students."
+    }
+  } ],
+  "displayName": "Sustainability trivia 1",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

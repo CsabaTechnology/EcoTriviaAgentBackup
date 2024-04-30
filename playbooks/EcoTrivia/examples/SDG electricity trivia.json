@@ -1,0 +1,85 @@
+{
+  "name": "f51a16e6-8eb0-4dba-9c57-40d01afb5375",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a numeric detail trivia about a Sustainable Development Goal"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the percentage of the world's population that has access to electricity?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "As of 2021, 90.1% of the world's population has access to electricity.",
+          "snippets": [ {
+            "text": "Target 7.1: By 2030, ensure universal access to affordable, reliable and modern energy services\nIndicator 7.1.1: Proportion of population with access to electricity\nTo address access gap across the world, the pace of electrification should accelerate, putting the most vulnerable on the trajectory for universal access\nby 2030.\nThe global electrification rate has grown significantly from 83 percent in\n2010 to 91 percent in 2020, increasing the number of connected people by\n1.3 billion. Accordingly, the number of unelectrified people has diminished\nfrom 1.2 billion to 733 million people in the period 2010-20. The progress\nhas been mainly driven by large access deficit countries such as India and\nBangladesh. However, the pace of access growth slowed down in recent\nyears between 2018 and 2020, due to the expected impacts of COVID-19 as\nwell as rising complexity of expanding access to the vulnerable. In 2018-20,\nthe electricity access rate increased by an average of 0.5 percentage points\na year compared to 0.8 percentage points between 2010 and 2018. Likewise,\n109 million people were electrified each year in the period 2018-20, while\n130 million people annually gained access in 2010-18. If the current pace of\naccess growth continues, some 670 million people are expected to live\nwithout access in2030 (IEA 2021). To meet universal access by 2030, the\naccess growth should speed up to 0.9 percentage points.\nThe progress in electrification was uneven across regions over the last\ndecade. Sub-Saharan Africa was the least-electrified region in the world in\n2020. 77 percent of the global population lacking access (568 million people)\nlived in Sub-Saharan Africa in 2020. Despite the COVID-19 impacts on the\nSDG 7.1 target trajectory, the access rate in the region increased from 46 percent in 2018 to 48 percent in 2020. However, the slowdown of electrification in the period, possibly\ncaused by COVID-19 crisis, weakened the pace of progress in the region. Under the pressure of COVID-19, up to 90 million people connected to electricity in Africa and developing\ncountries in Asia could not afford to have an extended bundle of services in 2020 (IEA 2021). Meanwhile, during the same period, as of 2020, other regions, including Central and\nSouthern Asia, Eastern and South-Eastern Asia, and Latin America and the Caribbean, have been approaching universal access. Particularly, Central and Southern Asia showed a\nsignificant drop in the number of unelectrified people in the period 2010-20.\nElectrification trends differed by socioeconomic segments.",
+            "title": "Sustainable Development Goals 2022 Extended Report Goal 7",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Extended Report Goal 7.pdf#:~:text=Target%207.1:%20By,by%20socioeconomic%20segments."
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the percentage of the world's population that has access to electricity?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "As of 2021, 90.1% of the world's population has access to electricity.",
+          "snippets": [ {
+            "text": "Target 7.1: By 2030, ensure universal access to affordable, reliable and modern energy services\nIndicator 7.1.1: Proportion of population with access to electricity\nTo address access gap across the world, the pace of electrification should accelerate, putting the most vulnerable on the trajectory for universal access\nby 2030.\nThe global electrification rate has grown significantly from 83 percent in\n2010 to 91 percent in 2020, increasing the number of connected people by\n1.3 billion. Accordingly, the number of unelectrified people has diminished\nfrom 1.2 billion to 733 million people in the period 2010-20. The progress\nhas been mainly driven by large access deficit countries such as India and\nBangladesh. However, the pace of access growth slowed down in recent\nyears between 2018 and 2020, due to the expected impacts of COVID-19 as\nwell as rising complexity of expanding access to the vulnerable. In 2018-20,\nthe electricity access rate increased by an average of 0.5 percentage points\na year compared to 0.8 percentage points between 2010 and 2018. Likewise,\n109 million people were electrified each year in the period 2018-20, while\n130 million people annually gained access in 2010-18. If the current pace of\naccess growth continues, some 670 million people are expected to live\nwithout access in2030 (IEA 2021). To meet universal access by 2030, the\naccess growth should speed up to 0.9 percentage points.\nThe progress in electrification was uneven across regions over the last\ndecade. Sub-Saharan Africa was the least-electrified region in the world in\n2020. 77 percent of the global population lacking access (568 million people)\nlived in Sub-Saharan Africa in 2020. Despite the COVID-19 impacts on the\nSDG 7.1 target trajectory, the access rate in the region increased from 46 percent in 2018 to 48 percent in 2020. However, the slowdown of electrification in the period, possibly\ncaused by COVID-19 crisis, weakened the pace of progress in the region. Under the pressure of COVID-19, up to 90 million people connected to electricity in Africa and developing\ncountries in Asia could not afford to have an extended bundle of services in 2020 (IEA 2021). Meanwhile, during the same period, as of 2020, other regions, including Central and\nSouthern Asia, Eastern and South-Eastern Asia, and Latin America and the Caribbean, have been approaching universal access. Particularly, Central and Southern Asia showed a\nsignificant drop in the number of unelectrified people in the period 2010-20.\nElectrification trends differed by socioeconomic segments.",
+            "title": "Sustainable Development Goals 2022 Extended Report Goal 7",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Extended Report Goal 7.pdf#:~:text=Target%207.1:%20By,by%20socioeconomic%20segments."
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the percentage of the world's population that has access to electricity?\n(A) 80%\n(B) 90.1%\n(C) 95%\n(D) 100%\nAnswer: B"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Give me a hint about the correct choice"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The percentage of the world's population that has access to electricity is close to 90%."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give a more specific hint?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The percentage of the world's population that has access to electricity is slightly higher than 90%."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the answer to the trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to the trivia can be found in the Sustainable Development Goals 2022 Extended Report Goal 7."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of the document contains the answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the section on access to electricity."
+    }
+  } ],
+  "displayName": "SDG electricity trivia",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

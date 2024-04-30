@@ -1,0 +1,14 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 172711540191,
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  },
+  "genAppBuilderSettings": {
+    "engine": "projects/172711540191/locations/us/collections/default_collection/engines/b5743dc4-a512-44e3-9fd8-baf32b272b67"
+  },
+  "startPlaybook": "EcoTrivia"
+}

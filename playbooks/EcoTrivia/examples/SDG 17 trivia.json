@@ -1,0 +1,77 @@
+{
+  "name": "552546d0-a105-41cf-94ad-9339821f791e",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a unique trivia about a Sustainable Development Goal we haven't talked about"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the goal of Sustainable Development Goal 17?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "Goal 17 of the Sustainable Development Goals is to strengthen the means of implementation and revitalize the global partnership for sustainable development.",
+          "snippets": [ {
+            "text": "One indicator that this SDG is being achieved is the existence of responsive, incl usive,\nparticipatory, and representative, decision making at all levels, includi ng the participation of\ndeveloping countries in institutions of global governance. Individuals’ righ ts include having a\nlegal identity, through formal birth registration, and public access to inf ormation in accordance\nwith national legislations and international agreements. Non-discrimi natory laws and policies\nfor sustainable development, as well as building capacity to prevent violence and combat\nterrorism and crime, are some of the factors that will be instrumental in achieving this SDG.\nGoal 17. Strengthen the means of implementation and revitaliz e the global\npartnership for sustainable development\nAchieving success with regards to the SDGs will require concerted support by k ey global\npartners as well as strong implementation and monitoring mechanisms. To tha t end, SDG 17\nencourages countries to strengthen the enabling environment around the SDG proces s. This\nSDG will measure spending on sustainability as a percent of Gross National I ncome (GNI),\nofficial development assistance as a percent of GNI, meeting of SDG targets, ann ual reporting of\nSDG indicators, and the Evaluative Wellbeing and Positive Mood Affect. The SDG w ill also take\ninto account secondary measures such as spending on R\u0026D as a share of GDP, tar iffs imposed\non agricultural and textile products from developing countries, and the val ue of least developed\ncountry exports as a percentage of total global exports. 1Sustainable Development Solutions Network [SDSN] Thematic Group on Early Childhood Developm ent, Education and Transition to Work 2015 95 Appendix 2: Funding Sources Country Funding Sources​ 1 Low Income ● Domestic Budget Revenues\n○ Least Development Countries (18% of GNI)\n○ Other Low-Income Countries (20% of GNI)\n● Official Development Assistance (ODA)\n● Official Development Assistance for Climate Finance\n● Pooled International Finance Mechanisms Middle Income ● Domestic Budget Revenues\n○ Lower-Middle-Income Countries (22% of GNI)\n○ Upper-Middle-Income Countries (24% of GNI)\n● Other Official Flows (OOF)\n● Other Official Flows for Climate Finance\n● Loans by Multilateral Development Banks\n● Pooled International Finance Mechanisms\n● Commercial Private Finance High Income ● Domestic Budget Revenues\n○ High-Income Countries (at least 24% of GNI)\n● Domestic Private Funds Mobilized\n● International Private Funds Mobilized\n● Commercial Private Finance 1 Schmidt-Traub, G. \u0026 Sachs, J. “Financing Sustainable Development: Implementing the SDGs through Effective\nInvestment Strategies and Partnerships.” Sustainable Development Solutions Network (8 April 2015).\nhttp://unsdsn.org/wp-content/uploads/2015/04/150408-SDSN-Financing-Sustainable-Development-Paper.pdf 96 Appendix 3: SDG Public/Private\nFinancing1 Open Working Group\nGoal Scale of\nincremental\ninvestments Share\nprivate\ninvestme\nnts Share public\ninvestments\nRole for\nhousehold\ncontributions? Priority pooled international\nfinance mechanisms described\nin this paper Goal 1: End poverty in all\nits forms everywhere Covered\nunder other\ngoals All pooled finance mechanism\ncontribute to this goal, including\nIDA Goal 2: End hunger,\nachieve food security\nand improved nutrition,\nand promote sustainable\nagriculture +++ ++ ++ Limited role in\nagriculture Proposed Smallholder and\nNutrition Fund (building on IFAD\nand GAFSP) ",
+            "title": "Handbook_for_the_Sustainable_Development",
+            "uri": "gs://sustainable-development-goals/Handbook_for_the_Sustainable_Development.pdf#:~:text=One%20indicator%20that,IFAD%20and%20GAFSP)"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the goal of Sustainable Development Goal 17?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "Goal 17 of the Sustainable Development Goals is to strengthen the means of implementation and revitalize the global partnership for sustainable development.",
+          "snippets": [ {
+            "text": "One indicator that this SDG is being achieved is the existence of responsive, incl usive,\nparticipatory, and representative, decision making at all levels, includi ng the participation of\ndeveloping countries in institutions of global governance. Individuals’ righ ts include having a\nlegal identity, through formal birth registration, and public access to inf ormation in accordance\nwith national legislations and international agreements. Non-discrimi natory laws and policies\nfor sustainable development, as well as building capacity to prevent violence and combat\nterrorism and crime, are some of the factors that will be instrumental in achieving this SDG.\nGoal 17. Strengthen the means of implementation and revitaliz e the global\npartnership for sustainable development\nAchieving success with regards to the SDGs will require concerted support by k ey global\npartners as well as strong implementation and monitoring mechanisms. To tha t end, SDG 17\nencourages countries to strengthen the enabling environment around the SDG proces s. This\nSDG will measure spending on sustainability as a percent of Gross National I ncome (GNI),\nofficial development assistance as a percent of GNI, meeting of SDG targets, ann ual reporting of\nSDG indicators, and the Evaluative Wellbeing and Positive Mood Affect. The SDG w ill also take\ninto account secondary measures such as spending on R\u0026D as a share of GDP, tar iffs imposed\non agricultural and textile products from developing countries, and the val ue of least developed\ncountry exports as a percentage of total global exports. 1Sustainable Development Solutions Network [SDSN] Thematic Group on Early Childhood Developm ent, Education and Transition to Work 2015 95 Appendix 2: Funding Sources Country Funding Sources​ 1 Low Income ● Domestic Budget Revenues\n○ Least Development Countries (18% of GNI)\n○ Other Low-Income Countries (20% of GNI)\n● Official Development Assistance (ODA)\n● Official Development Assistance for Climate Finance\n● Pooled International Finance Mechanisms Middle Income ● Domestic Budget Revenues\n○ Lower-Middle-Income Countries (22% of GNI)\n○ Upper-Middle-Income Countries (24% of GNI)\n● Other Official Flows (OOF)\n● Other Official Flows for Climate Finance\n● Loans by Multilateral Development Banks\n● Pooled International Finance Mechanisms\n● Commercial Private Finance High Income ● Domestic Budget Revenues\n○ High-Income Countries (at least 24% of GNI)\n● Domestic Private Funds Mobilized\n● International Private Funds Mobilized\n● Commercial Private Finance 1 Schmidt-Traub, G. \u0026 Sachs, J. “Financing Sustainable Development: Implementing the SDGs through Effective\nInvestment Strategies and Partnerships.” Sustainable Development Solutions Network (8 April 2015).\nhttp://unsdsn.org/wp-content/uploads/2015/04/150408-SDSN-Financing-Sustainable-Development-Paper.pdf 96 Appendix 3: SDG Public/Private\nFinancing1 Open Working Group\nGoal Scale of\nincremental\ninvestments Share\nprivate\ninvestme\nnts Share public\ninvestments\nRole for\nhousehold\ncontributions? Priority pooled international\nfinance mechanisms described\nin this paper Goal 1: End poverty in all\nits forms everywhere Covered\nunder other\ngoals All pooled finance mechanism\ncontribute to this goal, including\nIDA Goal 2: End hunger,\nachieve food security\nand improved nutrition,\nand promote sustainable\nagriculture +++ ++ ++ Limited role in\nagriculture Proposed Smallholder and\nNutrition Fund (building on IFAD\nand GAFSP) ",
+            "title": "Handbook_for_the_Sustainable_Development",
+            "uri": "gs://sustainable-development-goals/Handbook_for_the_Sustainable_Development.pdf#:~:text=One%20indicator%20that,IFAD%20and%20GAFSP)"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the goal of Sustainable Development Goal 17?\n(A) End poverty in all its forms everywhere\n(B) End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\n(C) Strengthen the means of implementation and revitalize the global partnership for sustainable development\n(D) Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all\nAnswer: C"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a hint about the right choice?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 17 is to address a critical issue that affects the ability to achieve all of the other Sustainable Development Goals."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the answer to the trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to the trivia can be found in the Handbook for the Sustainable Development Goals."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of the document contains the answer to the trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the section on Sustainable Development Goal 17."
+    }
+  } ],
+  "displayName": "SDG 17 trivia",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

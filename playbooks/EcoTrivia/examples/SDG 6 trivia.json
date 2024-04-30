@@ -1,0 +1,85 @@
+{
+  "name": "a7876353-b186-414c-a12a-a6a1d9c10ecf",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a trivia about Sustainable Development Goal 6"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the goal of Sustainable Development Goal 6?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "The goal of Sustainable Development Goal 6 is to ensure availability and sustainable management of water and sanitation for all.",
+          "snippets": [ {
+            "text": "Integrated management of water resources is foundational to building resilience to a changing climate (SDG 13), including the management of floods and droughts and ensuring\nwater security for all. In the 2021 global “State of Climate Services Report” (by the World Meteorological Organization), the number one recommendation was to “invest in\nIntegrated Resources Water Management as a solution to better manage water stress, especially in Small Island Developing States (SIDS) and Least Developed Countries (LDCs)”.\nThe COVID-19 pandemic has had some negative impacts on water management, including delays in implementation of policies and installing monitoring stations; and reduced\nbudgets for water sector investments. However, the pandemic has also revealed the importance of water management, most obviously to ensure a secure supply of clean water, and\nadequate sanitation and hygiene (WASH) (SDG targets 6.1 and 6.2). Beyond WASH, many countries and communities highlighted the importance of cross-sector coordination to\nincrease resilience to pandemics, for example securing water for agriculture to address food supply-chain shortages (SDG 2).Additional resources, press releases, etc. with links:\n• All reports, country summaries, and results, available through the IWRM data portal: http://iwrmdataportal.unepdhi.org/; including:\no 2021 SDG 6.5.1 status report: Executive Summary:\nhttp://iwrmdataportal.unepdhi.org/IWRMDataJsonService/Service1.svc/DownloadPublicationsReportDoc/English/SDG%206.5.1%20Global%20progress%20re\nport%202020%20EXECUTIVE%20SUMMARY.pdf\no 2021 SDG 6.5.1 full report:\nhttp://iwrmdataportal.unepdhi.org/IWRMDataJsonService/Service1.svc/DownloadPublicationsReportDoc/English/SDG%206.5.1%20Global%20progress%20re\nport%202021%20full%20report.pdf\no SDG 6.5.1 video: https://youtu.be/fKgkmXCO7h0\nStoryline author(s)/contributor(s): Paul Glennie, UNEP-DHI Centre on Water and Environment; Maija Bertule, UNEP-DHI Centre on Water and Environment; Sandra Bruehlmann,\nGlobal Water Partnership; Colin Herron, Global Water Partnership; Gareth James Lloyd, UNEP-DHI Centre; Lis Mullin Bernhardt, UNEP\nCustodian agency(ies): UNEP Progress towards full implementation of Integrated Water Resources Management (IWRM), 2017–2020 ",
+            "title": "Sustainable Development Goals 2022 Extended Report Goal 6",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Extended Report Goal 6.pdf#:~:text=Integrated%20management%20of,Management%20(IWRM)%252C%202017%E2%80%932020"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the goal of Sustainable Development Goal 6?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "The goal of Sustainable Development Goal 6 is to ensure availability and sustainable management of water and sanitation for all.",
+          "snippets": [ {
+            "text": "Integrated management of water resources is foundational to building resilience to a changing climate (SDG 13), including the management of floods and droughts and ensuring\nwater security for all. In the 2021 global “State of Climate Services Report” (by the World Meteorological Organization), the number one recommendation was to “invest in\nIntegrated Resources Water Management as a solution to better manage water stress, especially in Small Island Developing States (SIDS) and Least Developed Countries (LDCs)”.\nThe COVID-19 pandemic has had some negative impacts on water management, including delays in implementation of policies and installing monitoring stations; and reduced\nbudgets for water sector investments. However, the pandemic has also revealed the importance of water management, most obviously to ensure a secure supply of clean water, and\nadequate sanitation and hygiene (WASH) (SDG targets 6.1 and 6.2). Beyond WASH, many countries and communities highlighted the importance of cross-sector coordination to\nincrease resilience to pandemics, for example securing water for agriculture to address food supply-chain shortages (SDG 2).Additional resources, press releases, etc. with links:\n• All reports, country summaries, and results, available through the IWRM data portal: http://iwrmdataportal.unepdhi.org/; including:\no 2021 SDG 6.5.1 status report: Executive Summary:\nhttp://iwrmdataportal.unepdhi.org/IWRMDataJsonService/Service1.svc/DownloadPublicationsReportDoc/English/SDG%206.5.1%20Global%20progress%20re\nport%202020%20EXECUTIVE%20SUMMARY.pdf\no 2021 SDG 6.5.1 full report:\nhttp://iwrmdataportal.unepdhi.org/IWRMDataJsonService/Service1.svc/DownloadPublicationsReportDoc/English/SDG%206.5.1%20Global%20progress%20re\nport%202021%20full%20report.pdf\no SDG 6.5.1 video: https://youtu.be/fKgkmXCO7h0\nStoryline author(s)/contributor(s): Paul Glennie, UNEP-DHI Centre on Water and Environment; Maija Bertule, UNEP-DHI Centre on Water and Environment; Sandra Bruehlmann,\nGlobal Water Partnership; Colin Herron, Global Water Partnership; Gareth James Lloyd, UNEP-DHI Centre; Lis Mullin Bernhardt, UNEP\nCustodian agency(ies): UNEP Progress towards full implementation of Integrated Water Resources Management (IWRM), 2017–2020 ",
+            "title": "Sustainable Development Goals 2022 Extended Report Goal 6",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Extended Report Goal 6.pdf#:~:text=Integrated%20management%20of,Management%20(IWRM)%252C%202017%E2%80%932020"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the goal of Sustainable Development Goal 6?\n(A) End poverty in all its forms everywhere\n(B) End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\n(C) Ensure availability and sustainable management of water and sanitation for all\n(D) Ensure access to affordable, reliable, sustainable and modern energy for all\nAnswer: C"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Give me a hint about the correct choice"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 6 is to address a fundamental issue that affects people all over the world."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give a more specific hint?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The goal of Sustainable Development Goal 6 is to ensure that everyone has access to a basic human need."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Where can I find the answer ot the trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer to the trivia can be found in the Sustainable Development Goals 2022 Extended Report."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Which part of the document contains the answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The answer can be found in the section on Sustainable Development Goal 6."
+    }
+  } ],
+  "displayName": "SDG 6 trivia",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}
