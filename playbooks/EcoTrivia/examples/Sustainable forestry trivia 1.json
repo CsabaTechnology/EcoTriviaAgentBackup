@@ -43,31 +43,7 @@
     }
   }, {
     "agentUtterance": {
-      "text": "What is the importance of sustainable forestry?\n(A) It helps to protect the environment and biodiversity\n(B) It helps to mitigate climate change\n(C) It helps to provide economic benefits\n(D) All of the above\nAnswer: D"
-    }
-  }, {
-    "userUtterance": {
-      "text": "Can you give me a hint about the correct choice?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "Sustainable forestry is important because it helps to protect the environment, mitigate climate change, and provide economic benefits."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Where can I find the answer to this trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer to the trivia can be found in the Sustainable Forestry Handbook."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Which part of that document contains the answer?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer can be found in the section on \"What is Sustainable Forest Management?\"."
+      "text": "{\"question\": \"What is the importance of sustainable forestry?\", \"choices\": [{\"choice\": \"It helps to protect the environment and biodiversity\", \"correct\": false}, {\"choice\": \"It helps to mitigate climate change\", \"correct\": false}, {\"choice\": \"It helps to provide economic benefits\", \"correct\": false}, {\"choice\": \"All of the above\", \"correct\": true}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"Sustainable forestry's important depends on multiple factors.\"}, {\"hint_type\": \"specific\", \"hint\": \"Sustainable forestry is important because it helps to protect the environment, mitigate climate change, and provide economic benefits.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainable Forestry Handbook.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the section on \\\"What is Sustainable Forest Management?\\\".\"}]}"
     }
   } ],
   "displayName": "Sustainable forestry trivia 1",

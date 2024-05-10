@@ -43,39 +43,7 @@
     }
   }, {
     "agentUtterance": {
-      "text": "What percentage of the world's population lacks access to safely managed sanitation services?\n(A) 10%\n(B) 25%\n(C) 50%\n(D) 75%\nAnswer: B"
-    }
-  }, {
-    "userUtterance": {
-      "text": "Give me a hint about the correct choice"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The percentage of the world's population that lacks access to safely managed sanitation services is greater than 10%, but less than 50%."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Give me a more specific hint about the correct choice"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The percentage of the world's population that lacks access to safely managed sanitation services is closer to 25% than to 10%."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Where can I find the answer to the trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer to the trivia can be found in the Sustainable Development Goals 2018 Report."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Which part of the document contains the answer?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer can be found in the section on sanitation."
+      "text": "{\"question\": \"What percentage of the world's population lacks access to safely managed sanitation services?\", \"choices\": [{\"choice\": \"10%\", \"correct\": false}, {\"choice\": \"25%\", \"correct\": true}, {\"choice\": \"50%\", \"correct\": false}, {\"choice\": \"75%\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The percentage of the world's population that lacks access to safely managed sanitation services is greater than 10%, but less than 50%.\"}, {\"hint_type\": \"specific\", \"hint\": \"The percentage of the world's population that lacks access to safely managed sanitation services is closer to 25% than to 10%.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainable Development Goals 2018 Report.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the section on sanitation.\"}]}"
     }
   } ],
   "displayName": "SDG sanitation numeric trivia",

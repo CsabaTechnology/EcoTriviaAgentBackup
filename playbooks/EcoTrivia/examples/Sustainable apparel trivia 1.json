@@ -43,31 +43,7 @@
     }
   }, {
     "agentUtterance": {
-      "text": "What are the benefits of sustainable apparel production?\n(A) Reduced environmental impact\n(B) Improved working conditions for garment workers\n(C) Increased consumer demand for sustainable products\n(D) All of the above\nAnswer: D"
-    }
-  }, {
-    "userUtterance": {
-      "text": "Can you give me hint about the right choice?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "Sustainable apparel production has many benefits, including reducing the environmental impact of the fashion industry, improving working conditions for garment workers, and increasing consumer demand for sustainable products."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Where can I find the answer to this trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer to the trivia can be found in the Handbook of Sustainable Apparel Production, which is available online."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Which section of that document contains the answer?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer can be found in the section on the benefits of sustainable apparel production."
+      "text": "{\"question\": \"What are the benefits of sustainable apparel production?\", \"choices\": [{\"choice\": \"Reduced environmental impact\", \"correct\": false}, {\"choice\": \"Improved working conditions for garment workers\", \"correct\": false}, {\"choice\": \"Increased consumer demand for sustainable products\", \"correct\": false}, {\"choice\": \"All of the above\", \"correct\": true}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"Sustainable apparel production has many benefits.\"}, {\"hint_type\": \"specific\", \"hint\": \"Sustainable apparel production has many benefits, including reducing the environmental impact of the fashion industry, improving working conditions for garment workers, and increasing consumer demand for sustainable products.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Handbook of Sustainable Apparel Production, which is available online.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the section on the benefits of sustainable apparel production.\"}]}"
     }
   } ],
   "displayName": "Sustainable apparel trivia 1",

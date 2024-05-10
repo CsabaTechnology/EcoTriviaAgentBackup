@@ -43,39 +43,7 @@
     }
   }, {
     "agentUtterance": {
-      "text": "What is the goal of Sustainable Development Goal 6?\n(A) End poverty in all its forms everywhere\n(B) End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\n(C) Ensure availability and sustainable management of water and sanitation for all\n(D) Ensure access to affordable, reliable, sustainable and modern energy for all\nAnswer: C"
-    }
-  }, {
-    "userUtterance": {
-      "text": "Give me a hint about the correct choice"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The goal of Sustainable Development Goal 6 is to address a fundamental issue that affects people all over the world."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Can you give a more specific hint?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The goal of Sustainable Development Goal 6 is to ensure that everyone has access to a basic human need."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Where can I find the answer ot the trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer to the trivia can be found in the Sustainable Development Goals 2022 Extended Report."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Which part of the document contains the answer?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer can be found in the section on Sustainable Development Goal 6."
+      "text": "{\"question\": \"What is the goal of Sustainable Development Goal 6?\", \"choices\": [{\"choice\": \"End poverty in all its forms everywhere\", \"correct\": false}, {\"choice\": \"End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\", \"correct\": false}, {\"choice\": \"Ensure availability and sustainable management of water and sanitation for all\", \"correct\": true}, {\"choice\": \"Ensure access to affordable, reliable, sustainable and modern energy for all\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The goal of Sustainable Development Goal 6 is to address a fundamental issue that affects people all over the world.\"}, {\"hint_type\": \"specific\", \"hint\": \"The goal of Sustainable Development Goal 6 is to ensure that everyone has access to a basic human need.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainable Development Goals 2022 Extended Report.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the section on Sustainable Development Goal 6.\"}]}"
     }
   } ],
   "displayName": "SDG 6 trivia",

@@ -1,0 +1,53 @@
+{
+  "name": "72086689-058f-4f57-80d7-f10079fa7edb",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a trivia about the progress of Sustainable Development Goal 7"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the progress of Sustainable Development Goal 7?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "In 2020, the electricity access rate of the Least Developed Countries (LDCs) remained at a low level of 55 percent, leaving 479 million unserved people, equivalent to more than half of the world population without access.",
+          "snippets": [ {
+            "text": "The electricity access rate of the Least Developed Countries (LDCs) remained at low level of 55 percent in 2020, leaving\n479 million unserved people, equivalent to more than half of the world population without access. For urban-rural disaggregation in electrification in the LDCs, the global rural\naccess rate has grown faster than urban rate since 2010. However, in 2020, 44 percent of people living in rural areas had access to electricity while it increased to 78 percent in\nurban settings. Therefore, further efforts to scale up access in the LDCs and remote areas are necessary to meet the target by 2030.Additional resources, press releases, etc. with links:\n• Tracking SDG7: The Energy Progress Report; Link: https://trackingsdg7.esmap.org/downloads\nStoryline author(s)/contributor(s): Elisa Portale, World Bank; Juliette Besnard, World Bank; Jiyun Park, World Bank\nCustodian agency(ies): World Bank ",
+            "title": "Sustainable Development Goals 2022 Extended Report Goal 7",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Extended Report Goal 7.pdf#:~:text=The%20electricity%20access,agency(ies):%20World%20Bank"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the progress of Sustainable Development Goal 7?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "In 2020, the electricity access rate of the Least Developed Countries (LDCs) remained at a low level of 55 percent, leaving 479 million unserved people, equivalent to more than half of the world population without access.",
+          "snippets": [ {
+            "text": "The electricity access rate of the Least Developed Countries (LDCs) remained at low level of 55 percent in 2020, leaving\n479 million unserved people, equivalent to more than half of the world population without access. For urban-rural disaggregation in electrification in the LDCs, the global rural\naccess rate has grown faster than urban rate since 2010. However, in 2020, 44 percent of people living in rural areas had access to electricity while it increased to 78 percent in\nurban settings. Therefore, further efforts to scale up access in the LDCs and remote areas are necessary to meet the target by 2030.Additional resources, press releases, etc. with links:\n• Tracking SDG7: The Energy Progress Report; Link: https://trackingsdg7.esmap.org/downloads\nStoryline author(s)/contributor(s): Elisa Portale, World Bank; Juliette Besnard, World Bank; Jiyun Park, World Bank\nCustodian agency(ies): World Bank ",
+            "title": "Sustainable Development Goals 2022 Extended Report Goal 7",
+            "uri": "gs://sustainable-development-goals/Sustainable Development Goals 2022 Extended Report Goal 7.pdf#:~:text=The%20electricity%20access,agency(ies):%20World%20Bank"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "{\"question\": \"What is the progress of Sustainable Development Goal 7?\", \"choices\": [{\"choice\": \"The world is on track to achieve all of the targets for Sustainable Development Goal 7.\", \"correct\": false}, {\"choice\": \"The world is making progress towards achieving the targets for Sustainable Development Goal 7, but there is still more work to be done.\", \"correct\": true}, {\"choice\": \"The world is not on track to achieve any of the targets for Sustainable Development Goal 7.\", \"correct\": false}, {\"choice\": \"The data on the progress of Sustainable Development Goal 7 is inconclusive.\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The progress is kind of in between.\"}, {\"hint_type\": \"specific\", \"hint\": \"The answer to the trivia can be found in the Sustainable Development Goals 2022 Extended Report.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainable Development Goals 2022 Extended Report.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the section on the progress of Sustainable Development Goal 7.\"}]}"
+    }
+  } ],
+  "displayName": "SDG 7 progress trivia",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

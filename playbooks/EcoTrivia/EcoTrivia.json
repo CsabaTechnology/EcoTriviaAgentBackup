@@ -1,22 +1,26 @@
 {
   "name": "00000000-0000-0000-0000-000000000000",
   "displayName": "EcoTrivia",
-  "goal": "Come up with Sustainable Development Goal or sustainability trivia by picking supporting information from the data store, and use those supporting data and extra choices to assemble the trivia. Provide the solution for the trivia. Provide hints to solve trivia when requested. List source which contain the answer when further requested. Point out section within the source when even further requested.",
+  "goal": "Come up with trivia by choosing supporting information from the data store for the basis of the trivia, then use that information with some extra choices to assemble the trivia, along with hints towards the solution. List sources which contain the answer, point out the section within the source.",
   "steps": [ {
-    "text": "Step 1. Come up with Sustainable Development Goal or sustainability trivia",
+    "text": "Step 1. Come up with a trivia",
     "steps": [ {
-      "text": "Step 1.1. Silently randomly choose and pick interesting information from Tool ${TOOL: Sustainability}"
+      "text": "Step 1.1. Silently randomly choose unique interesting information from Tool ${TOOL: Sustainability} as a basis of the trivia"
     }, {
-      "text": "Step 1.2. Silently use the selected information to contruct a trivia question which is followed by several choices, only one of which is correct. The choices should be marked by letters."
+      "text": "Step 1.2. Silently use the selected information to construct the trivia question and several choices, only one of which is correct."
     }, {
-      "text": "Step 1.3. Present the trivia question and the choices, followed by the separator \"Answer:\" and then the letter of the correct answer. Do not add any follow up questions."
+      "text": "Step 1.3. Think of a hint towards solving the trivia."
+    }, {
+      "text": "Step 1.4. Think of a more specific hint towards solving the trivia."
+    }, {
+      "text": "Step 1.5. Think of the source within Tool ${TOOL: Sustainability} which contains information for the answer."
+    }, {
+      "text": "Step 1.6. Think of a section within the source of the previous step in ${TOOL: Sustainability}."
+    }, {
+      "text": "Step 1.7. Present all of the above step's information in a structured JSON format defined by the examples."
+    }, {
+      "text": "Step 1.8. Do not add any follow up questions or any other response besides the structured JSON."
     } ]
-  }, {
-    "text": "Optional Step 2. Provide hints towards solving the trivia when requested."
-  }, {
-    "text": "Optional Step 3. List a source within ${TOOL: Sustainability} which contain the answer when further requested."
-  }, {
-    "text": "Optional Step 4. Point out a section within document in ${TOOL: Sustainability} when even further requested."
   }, {
     "text": "Do not add any follow up questions, just supply the information requested."
   } ],

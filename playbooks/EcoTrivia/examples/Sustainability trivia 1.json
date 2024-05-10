@@ -43,31 +43,7 @@
     }
   }, {
     "agentUtterance": {
-      "text": "What is the definition of sustainability?\n(A) Sustainability is a societal goal that broadly aims for humans to safely co-exist on planet Earth over a long time.\n(B) Sustainability is a societal goal that broadly aims for humans to safely co-exist on planet Earth over a short time.\n(C) Sustainability is a societal goal that broadly aims for humans to unsafely co-exist on planet Earth over a long time.\n(D) Sustainability is a societal goal that broadly aims for humans to unsafely co-exist on planet Earth over a short time.\nAnswer: A"
-    }
-  }, {
-    "userUtterance": {
-      "text": "Can you give me a hint about the correct choice?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "Sustainability is a societal goal that aims for humans to live in harmony with the environment and each other."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Where can I find the answer to this trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer to this trivia can be found in the Sustainability E-book for students."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Which part of that document contains the answer?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer can be found in the Introduction section of the Sustainability E-book for students."
+      "text": "{\"question\": \"What is the definition of sustainability?\", \"choices\": [{\"choice\": \"Sustainability is a societal goal that broadly aims for humans to safely co-exist on planet Earth over a long time.\", \"correct\": true}, {\"choice\": \"Sustainability is a societal goal that broadly aims for humans to safely co-exist on planet Earth over a short time.\", \"correct\": false}, {\"choice\": \"Sustainability is a societal goal that broadly aims for humans to unsafely co-exist on planet Earth over a long time.\", \"correct\": false}, {\"choice\": \"Sustainability is a societal goal that broadly aims for humans to unsafely co-exist on planet Earth over a short time.\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"Sustainability is a societal goal that aims for humans to live in harmony with the environment and each other.\"}, {\"hint_type\": \"specific\", \"hint\": \"Sustainability is aims for the broadest good.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to this trivia can be found in the Sustainability E-book for students.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the Introduction section of the Sustainability E-book for students.\"}]}"
     }
   } ],
   "displayName": "Sustainability trivia 1",

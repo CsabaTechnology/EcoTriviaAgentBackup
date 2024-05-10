@@ -43,31 +43,7 @@
     }
   }, {
     "agentUtterance": {
-      "text": "What is the goal of Sustainable Development Goal 17?\n(A) End poverty in all its forms everywhere\n(B) End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\n(C) Strengthen the means of implementation and revitalize the global partnership for sustainable development\n(D) Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all\nAnswer: C"
-    }
-  }, {
-    "userUtterance": {
-      "text": "Can you give me a hint about the right choice?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The goal of Sustainable Development Goal 17 is to address a critical issue that affects the ability to achieve all of the other Sustainable Development Goals."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Where can I find the answer to the trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer to the trivia can be found in the Handbook for the Sustainable Development Goals."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Which part of the document contains the answer to the trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer can be found in the section on Sustainable Development Goal 17."
+      "text": "{\"question\": \"What is the goal of Sustainable Development Goal 17?\", \"choices\": [{\"choice\": \"End poverty in all its forms everywhere\", \"correct\": false}, {\"choice\": \"End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\", \"correct\": false}, {\"choice\": \"Strengthen the means of implementation and revitalize the global partnership for sustainable development\", \"correct\": true}, {\"choice\": \"Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The goal of Sustainable Development Goal 17 is to address a critical issue that affects the ability to achieve all of the other Sustainable Development Goals.\"}, {\"hint_type\": \"specific\", \"hint\": \"The goal of Sustainable Development Goal 17 is about cooperation.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Handbook for the Sustainable Development Goals.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the section on Sustainable Development Goal 17.\"}]}"
     }
   } ],
   "displayName": "SDG 17 trivia",

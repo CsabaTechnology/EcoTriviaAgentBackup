@@ -1,0 +1,53 @@
+{
+  "name": "05432c21-0076-4267-8710-623c60562efd",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with another unique sustainability trivia"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the most common type of plastic produced in the world?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "Polyethylene (PE) is the most common type of plastic produced in the world.",
+          "snippets": [ {
+            "text": "helping to deforest the Amazon rainforest (also a common thing), but\nsuddenly one of their sub-brands has become perfectly organic – one\ncan assume something is not right here.\nIn the rankings and published lists of the least environmentally\nfriendly companies that are regularly issued year after year, the same\nnames often appear in unflattering positions. The reasons for their\ninclusion on these lists vary, but most often are related to the produc\ntion of plastics or plastic waste, air pollution or the unsustainable use\nof water and natural resources.\nThe #brekafreefromplastic (BFFP) movement in its “BRANDED Vol\nume IV: Holding Corporations Accountable for the Plastic \u0026 Climate\nCrisis” revealed the Top 10 Corporate Plastic Polluters of 2021. The\nfoundational brand audit methodology was designed by the Glob\nal Alliance for Incinerator Alternatives (GAIA), Mother Earth Founda\ntion, Citizen consumer and civic Action Group (CAG), and Greenpeace\nPhilippines, but the report relies on self-reported data submitted\nby diverse participants from all over the world. The 2021 report was\na collaboration of 11,184 volunteers who conducted 440 brand audits\nacross 45 countries in Asia, Europe and North America. The analysis\nfound that the top plastic-polluting corporations of 2021 were: The\nCoca-Cola Company, PepsiCo, Unilever, Nestlé, Procter \u0026 Gamble,\nMondelēz International, Philip Morris International, Danone, Mars,\nInc., and Colgate-Palmolive (Break Free From Plastic Movement, 2021).\nIn 2019, the global fast food chain McDonald’s received unwanted\nheadlines due to its paper straw controversy, when it admitted that\nthe cardboard straws introduced to replace the plastic ones are actu\nally non-recyclable (Akepa, 2021).\nOne of the most famous examples of greenwashing in the food\nand beverage industry is the Coca-Cola company. The brand was\nranked number one as the company that produces the most plastic\nworldwide by an expert jury of the aforementioned study for five con\nsecutive years since the study’s launch. The brand produces a whop\nping 3,400 plastic bottles per second. Despite the terrifying figure,\nCoca-Cola still claims in its communications that it is selling more and\nmore bottles that can be recycled. The company even faced a law\nsuit in 2021 from the Earth Island Institute for misleading advertising\nabout sustainability and environmental friendliness (Fandlová, 2021;\nIvančák, 2022). It also claims that its goal is to make 100% of their\npackaging recyclable globally by 2025 and using at least 50% recycled 286 Introduction to sustainability ",
+            "title": "Sustainability_E-book_for_students",
+            "uri": "gs://sustainable-development-goals/Sustainability_E-book_for_students.pdf#:~:text=helping%20to%20deforest,Introduction%20to%20sustainability"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the most common type of plastic produced in the world?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "Polyethylene (PE) is the most common type of plastic produced in the world.",
+          "snippets": [ {
+            "text": "helping to deforest the Amazon rainforest (also a common thing), but\nsuddenly one of their sub-brands has become perfectly organic – one\ncan assume something is not right here.\nIn the rankings and published lists of the least environmentally\nfriendly companies that are regularly issued year after year, the same\nnames often appear in unflattering positions. The reasons for their\ninclusion on these lists vary, but most often are related to the produc\ntion of plastics or plastic waste, air pollution or the unsustainable use\nof water and natural resources.\nThe #brekafreefromplastic (BFFP) movement in its “BRANDED Vol\nume IV: Holding Corporations Accountable for the Plastic \u0026 Climate\nCrisis” revealed the Top 10 Corporate Plastic Polluters of 2021. The\nfoundational brand audit methodology was designed by the Glob\nal Alliance for Incinerator Alternatives (GAIA), Mother Earth Founda\ntion, Citizen consumer and civic Action Group (CAG), and Greenpeace\nPhilippines, but the report relies on self-reported data submitted\nby diverse participants from all over the world. The 2021 report was\na collaboration of 11,184 volunteers who conducted 440 brand audits\nacross 45 countries in Asia, Europe and North America. The analysis\nfound that the top plastic-polluting corporations of 2021 were: The\nCoca-Cola Company, PepsiCo, Unilever, Nestlé, Procter \u0026 Gamble,\nMondelēz International, Philip Morris International, Danone, Mars,\nInc., and Colgate-Palmolive (Break Free From Plastic Movement, 2021).\nIn 2019, the global fast food chain McDonald’s received unwanted\nheadlines due to its paper straw controversy, when it admitted that\nthe cardboard straws introduced to replace the plastic ones are actu\nally non-recyclable (Akepa, 2021).\nOne of the most famous examples of greenwashing in the food\nand beverage industry is the Coca-Cola company. The brand was\nranked number one as the company that produces the most plastic\nworldwide by an expert jury of the aforementioned study for five con\nsecutive years since the study’s launch. The brand produces a whop\nping 3,400 plastic bottles per second. Despite the terrifying figure,\nCoca-Cola still claims in its communications that it is selling more and\nmore bottles that can be recycled. The company even faced a law\nsuit in 2021 from the Earth Island Institute for misleading advertising\nabout sustainability and environmental friendliness (Fandlová, 2021;\nIvančák, 2022). It also claims that its goal is to make 100% of their\npackaging recyclable globally by 2025 and using at least 50% recycled 286 Introduction to sustainability ",
+            "title": "Sustainability_E-book_for_students",
+            "uri": "gs://sustainable-development-goals/Sustainability_E-book_for_students.pdf#:~:text=helping%20to%20deforest,Introduction%20to%20sustainability"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "{\"question\": \"What is the most common type of plastic produced in the world?\", \"choices\": [{\"choice\": \"Polyethylene (PE)\", \"correct\": true}, {\"choice\": \"Polypropylene (PP)\", \"correct\": false}, {\"choice\": \"Polyvinyl chloride (PVC)\", \"correct\": false}, {\"choice\": \"Polyethylene terephthalate (PET)\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The most common type of plastic is used in a wide variety of applications, including packaging, construction, and automotive parts.\"}, {\"hint_type\": \"specific\", \"hint\": \"The most common type of plastic is a thermoplastic, which means that it can be melted and reshaped multiple times.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainability E-book for students.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the Introduction to sustainability section of the Sustainability E-book for students.\"}]}"
+    }
+  } ],
+  "displayName": "Student ebook trivia 2",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

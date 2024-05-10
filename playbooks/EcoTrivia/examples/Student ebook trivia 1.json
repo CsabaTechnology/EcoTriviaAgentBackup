@@ -1,0 +1,53 @@
+{
+  "name": "df5ecd07-238a-418a-b5f6-e9b0d5e37343",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Come up with a sustainability trivia"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What is the most abundant element in the universe?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "Hydrogen is the most abundant element in the universe.",
+          "snippets": [ {
+            "text": "with the other by-products? The desire to increase the proportion ob\ntained from the most valuable components of petroleum has served\nto produce important technological advances in the recent history\nof the sector. Thus, to avoid unwanted surpluses, the long chains are\nbroken to form shorter chains that allow, at the same time, more gas\noline to be obtained and by-product surpluses to be reduced through\ntechniques known as catalytic cracking. In addition to this, it is not\nonly possible to increase the amount of gasoline obtained from\na barrel of oil, but also to increase its power; this is achieved through\nthe so-called hydrocarbon molecule reforming techniques, which,\nthrough chemical processing using heat and catalytic agents, manage\nto reform the C8 hydrocarbon, called octane, into isoctane that burns\nmore efficiently and reduces gasoline consumption in automobiles.\nNone of these techniques make oil more abundant in nature, but they\ndo make it less scarce for society; in other words, they increase the\nlevel of well-being that we can get from the same amount of crude oil.\nFinally, in the definition of what we consider scarce or abundant,\none must not lose sight of the fact that, at least in modern market\nsocieties, the production and commercialization of raw materials\nultimately depends on the supply and demand of goods for whose\nelaboration these are used. Thus, for example, oil only became a com\nmodity with economic value in the 19th century; precisely at a time\nwhen the whaling industry was beginning to be unable to provide\nenough oil to light the lamps of the world. In August 1859 Edwin\nDrake in Pennsylvania inaugurated a new era by digging the first oil\nwell and a few years later the invention of the internal combustion\nengine made gasoline a vital element for transportation, and this de\nmand has not stopped increasing ever since. Today, 70 million bar\nrels are consumed daily in the world. However, as the demand grows,\nso does the technology of their use, with more efficient motors and\nlighter materials used in their construction. For all these reasons, with\nthe exception of the 1970s, economically exploitable oil reserves have\nnot stopped increasing, guided by exploration, the discovery of new\ntechnologies, and the substitution of materials.\nExploitation costs and market prices\nIn short, both the available information and the technological possi\nbilities of exploiting and using the reserves must be reflected in the\nproduction costs and in the prices of the different resources. 56 Introduction to sustainability ",
+            "title": "Sustainability_E-book_for_students",
+            "uri": "gs://sustainable-development-goals/Sustainability_E-book_for_students.pdf#:~:text=with%20the%20other,Introduction%20to%20sustainability"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What is the most abundant element in the universe?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "Hydrogen is the most abundant element in the universe.",
+          "snippets": [ {
+            "text": "with the other by-products? The desire to increase the proportion ob\ntained from the most valuable components of petroleum has served\nto produce important technological advances in the recent history\nof the sector. Thus, to avoid unwanted surpluses, the long chains are\nbroken to form shorter chains that allow, at the same time, more gas\noline to be obtained and by-product surpluses to be reduced through\ntechniques known as catalytic cracking. In addition to this, it is not\nonly possible to increase the amount of gasoline obtained from\na barrel of oil, but also to increase its power; this is achieved through\nthe so-called hydrocarbon molecule reforming techniques, which,\nthrough chemical processing using heat and catalytic agents, manage\nto reform the C8 hydrocarbon, called octane, into isoctane that burns\nmore efficiently and reduces gasoline consumption in automobiles.\nNone of these techniques make oil more abundant in nature, but they\ndo make it less scarce for society; in other words, they increase the\nlevel of well-being that we can get from the same amount of crude oil.\nFinally, in the definition of what we consider scarce or abundant,\none must not lose sight of the fact that, at least in modern market\nsocieties, the production and commercialization of raw materials\nultimately depends on the supply and demand of goods for whose\nelaboration these are used. Thus, for example, oil only became a com\nmodity with economic value in the 19th century; precisely at a time\nwhen the whaling industry was beginning to be unable to provide\nenough oil to light the lamps of the world. In August 1859 Edwin\nDrake in Pennsylvania inaugurated a new era by digging the first oil\nwell and a few years later the invention of the internal combustion\nengine made gasoline a vital element for transportation, and this de\nmand has not stopped increasing ever since. Today, 70 million bar\nrels are consumed daily in the world. However, as the demand grows,\nso does the technology of their use, with more efficient motors and\nlighter materials used in their construction. For all these reasons, with\nthe exception of the 1970s, economically exploitable oil reserves have\nnot stopped increasing, guided by exploration, the discovery of new\ntechnologies, and the substitution of materials.\nExploitation costs and market prices\nIn short, both the available information and the technological possi\nbilities of exploiting and using the reserves must be reflected in the\nproduction costs and in the prices of the different resources. 56 Introduction to sustainability ",
+            "title": "Sustainability_E-book_for_students",
+            "uri": "gs://sustainable-development-goals/Sustainability_E-book_for_students.pdf#:~:text=with%20the%20other,Introduction%20to%20sustainability"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "{\"question\": \"What is the most abundant element in the universe?\", \"choices\": [{\"choice\": \"Hydrogen\", \"correct\": true}, {\"choice\": \"Helium\", \"correct\": false}, {\"choice\": \"Carbon\", \"correct\": false}, {\"choice\": \"Oxygen\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The most abundant element in the universe is a gas that is essential for life.\"}, {\"hint_type\": \"specific\", \"hint\": \"The most abundant element in the universe is the lightest element on the periodic table.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainability E-book for students.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the Introduction to sustainability section of the Sustainability E-book for students.\"}]}"
+    }
+  } ],
+  "displayName": "Student ebook trivia 1",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

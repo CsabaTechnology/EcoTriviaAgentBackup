@@ -1,0 +1,53 @@
+{
+  "name": "b26d7293-f354-4b7f-b9da-7e3f26984dcf",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Can you come up with a harder trivia about sustainable engineering?"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/b5743dc4-a512-44e3-9fd8-baf32b272b67/tools/8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "What are the challenges of sustainable engineering?"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "Sustainable engineering poses a difficult set of challenges for engineers. Sustainable engineering problems are often regarded as wicked problems because they share the five most relevant characteristics of wicked problems: (i) they are difficult to formulate, (ii) multiple but incompatible solutions exist, (iii) time frames are open-ended, (iv) the problems are unique, and (v) competing value systems or objectives exist in the problem.",
+          "snippets": [ {
+            "text": "Sustainable Engineering Education: Higher education is now facing new challenges as it prepares future professionals.\nEngineers of the future will face more demanding challenges as they must design human-environment-technology\nsystems. Engineering education is responsible for developing programs that will lead to a better, safer, and moral\nmodern future world. Critical topics such as global warming, climate change, green practices and sustainable engineering\nsolutions are central to recent changes to regulations and policies impacting the practice of engineering. In view of this.\nevery engineering curricula should incorporate sustainability as an overarching theme. A degree program in sustainable\nengineering should be useful for engineers and non-engineers alike. Such a degree program may cover basic sciences\n(chemistry, biology, physics), atmospheric science, social science, economics, geography and planning, and political\nscience. It should have great potential for hands-on multidisciplinary project-based learning [7,8].  Engineering Sustainable Happiness: Everyone wants to be happy and strives to be happy. The notion of happiness is\nexpanded to sustainable happiness. Sustainable happiness is the pursuit of happiness that does not exploit other people,\nthe environment or future generation. By influencing decision making processes, sustainable happiness can guide\nindividuals, communities and politicians. The key element of it is cooperation between people. Creating positive mind\nsets and developing honesty and mutual trust ultimately lead towards sustainable happiness [9].\nOther areas of application include sustainable hydraulic engineering, sustainable road mobility, and sustainable critical\ninfrastructures (e.g. electric power infrastructure, transportation infrastructure, food and water infrastructures, financial\ninfrastructure, and telecommunication infrastructures). BENEFITS AND CHALLENGES\nNew residential and commercial buildings should be designed to be more environmentally friendly. This will reduce emissions,\nillnesses, and energy consumption. International Journal of Advances in Scientific Research and Engineering (ijasre), Vol 5 (6), June-2019 www.ijasre.net Page 72 DOI: 10.31695/IJASRE.2019.33239 Sustainable engineering poses a difficult set of challenges for engineers. Sustainable engineering problems are often regarded as\nwicked problems because they share the five most relevant characteristics of wicked problems [6]: (i) they are difficult to\nformulate, (ii) multiple but incompatible solutions exist, (iii) time frames are open-ended, (iv) the problems are unique, and (v) Figure 1: Green and Sustainable Food Science and Engineering\ncompeting value systems or objectives exist in the problem. Economics is one of the most prominent barriers encountered by\npractitioners attempting to introduce sustainable engineering practices. Designers are often expected to follow building codes and\nregulations which may conflict with the principles of sustainable engineering [10]. CONCLUSION ",
+            "title": "Sustainable_Engineering_An_Introduction",
+            "uri": "gs://sustainable-development-goals/Sustainable_Engineering_An_Introduction.pdf#:~:text=Sustainable%20Engineering%20Education:,engineering%20%5B10%5D.%20CONCLUSION"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "What are the challenges of sustainable engineering?"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "Sustainable engineering poses a difficult set of challenges for engineers. Sustainable engineering problems are often regarded as wicked problems because they share the five most relevant characteristics of wicked problems: (i) they are difficult to formulate, (ii) multiple but incompatible solutions exist, (iii) time frames are open-ended, (iv) the problems are unique, and (v) competing value systems or objectives exist in the problem.",
+          "snippets": [ {
+            "text": "Sustainable Engineering Education: Higher education is now facing new challenges as it prepares future professionals.\nEngineers of the future will face more demanding challenges as they must design human-environment-technology\nsystems. Engineering education is responsible for developing programs that will lead to a better, safer, and moral\nmodern future world. Critical topics such as global warming, climate change, green practices and sustainable engineering\nsolutions are central to recent changes to regulations and policies impacting the practice of engineering. In view of this.\nevery engineering curricula should incorporate sustainability as an overarching theme. A degree program in sustainable\nengineering should be useful for engineers and non-engineers alike. Such a degree program may cover basic sciences\n(chemistry, biology, physics), atmospheric science, social science, economics, geography and planning, and political\nscience. It should have great potential for hands-on multidisciplinary project-based learning [7,8].  Engineering Sustainable Happiness: Everyone wants to be happy and strives to be happy. The notion of happiness is\nexpanded to sustainable happiness. Sustainable happiness is the pursuit of happiness that does not exploit other people,\nthe environment or future generation. By influencing decision making processes, sustainable happiness can guide\nindividuals, communities and politicians. The key element of it is cooperation between people. Creating positive mind\nsets and developing honesty and mutual trust ultimately lead towards sustainable happiness [9].\nOther areas of application include sustainable hydraulic engineering, sustainable road mobility, and sustainable critical\ninfrastructures (e.g. electric power infrastructure, transportation infrastructure, food and water infrastructures, financial\ninfrastructure, and telecommunication infrastructures). BENEFITS AND CHALLENGES\nNew residential and commercial buildings should be designed to be more environmentally friendly. This will reduce emissions,\nillnesses, and energy consumption. International Journal of Advances in Scientific Research and Engineering (ijasre), Vol 5 (6), June-2019 www.ijasre.net Page 72 DOI: 10.31695/IJASRE.2019.33239 Sustainable engineering poses a difficult set of challenges for engineers. Sustainable engineering problems are often regarded as\nwicked problems because they share the five most relevant characteristics of wicked problems [6]: (i) they are difficult to\nformulate, (ii) multiple but incompatible solutions exist, (iii) time frames are open-ended, (iv) the problems are unique, and (v) Figure 1: Green and Sustainable Food Science and Engineering\ncompeting value systems or objectives exist in the problem. Economics is one of the most prominent barriers encountered by\npractitioners attempting to introduce sustainable engineering practices. Designers are often expected to follow building codes and\nregulations which may conflict with the principles of sustainable engineering [10]. CONCLUSION ",
+            "title": "Sustainable_Engineering_An_Introduction",
+            "uri": "gs://sustainable-development-goals/Sustainable_Engineering_An_Introduction.pdf#:~:text=Sustainable%20Engineering%20Education:,engineering%20%5B10%5D.%20CONCLUSION"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "{\"question\": \"What are the challenges of sustainable engineering?\", \"choices\": [{\"choice\": \"It is difficult to formulate sustainable engineering problems\", \"correct\": false}, {\"choice\": \"There are multiple but incompatible solutions to sustainable engineering problems\", \"correct\": false}, {\"choice\": \"Time frames for sustainable engineering problems are open-ended\", \"correct\": false}, {\"choice\": \"All of the above\", \"correct\": true}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"Sustainable engineering problems are often regarded as wicked problems because they share the five most relevant characteristics of wicked problems.\"}, {\"hint_type\": \"specific\", \"hint\": \"One of the characteristics of wicked problems is that they are difficult to formulate.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainable Engineering: An Introduction document.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the section on Benefits and Challenges.\"}]}"
+    }
+  } ],
+  "displayName": "Sustainable engineering trivia 2",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}

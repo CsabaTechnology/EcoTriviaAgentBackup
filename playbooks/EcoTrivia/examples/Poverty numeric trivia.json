@@ -43,31 +43,7 @@
     }
   }, {
     "agentUtterance": {
-      "text": "What is the percentage of the world's population that lives in extreme poverty?\n(A) 5%\n(B) 8.4%\n(C) 10%\n(D) 15%\nAnswer: B"
-    }
-  }, {
-    "userUtterance": {
-      "text": "Give me a hint about the right answer"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The percentage of the world's population that lives in extreme poverty is less than 10%."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Where can I find the answer to the trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer to the trivia can be found in the Sustainable Development Goals 2023 Report Special Edition."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Which part of the document contains the answer?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer can be found in the section on poverty."
+      "text": "{\"question\": \"What is the percentage of the world's population that lives in extreme poverty?\", \"choices\": [{\"choice\": \"5%\", \"correct\": false}, {\"choice\": \"8.4%\", \"correct\": true}, {\"choice\": \"10%\", \"correct\": false}, {\"choice\": \"15%\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The percentage of the world's population that lives in extreme poverty is less than 12%.\"}, {\"hint_type\": \"specific\", \"hint\": \"The percentage of the world's population that lives in extreme poverty is more than 5% and less than 12%.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainable Development Goals 2023 Report Special Edition.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the section on poverty, which is on page 10 of the document.\"}]}"
     }
   } ],
   "displayName": "Poverty numeric trivia",

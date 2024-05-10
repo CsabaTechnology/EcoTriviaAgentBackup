@@ -43,39 +43,7 @@
     }
   }, {
     "agentUtterance": {
-      "text": "What is the goal of Sustainable Development Goal 13?\n(A) End poverty in all its forms everywhere\n(B) End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\n(C) Take urgent action to combat climate change and its impacts\n(D) Conserve and sustainably use the oceans, seas, and marine resources for sustainable development\nAnswer: C"
-    }
-  }, {
-    "userUtterance": {
-      "text": "Can you give me a hint about the correct choice?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The goal of Sustainable Development Goal 13 is to address a critical issue that affects the entire planet and all of its inhabitants."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Can you give me a more specific hint?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The goal of Sustainable Development Goal 13 is to address a critical issue that is caused by human activities and is having a significant impact on the environment."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Where can I find the answer to the trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer to the trivia can be found in the Handbook for the Sustainable Development Goals, which is available online."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Which section of that document contains the solution?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer can be found in the section on Sustainable Development Goal 13."
+      "text": "{\"question\": \"What is the goal of Sustainable Development Goal 13?\", \"choices\": [{\"choice\": \"End poverty in all its forms everywhere\", \"correct\": false}, {\"choice\": \"End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\", \"correct\": false}, {\"choice\": \"Take urgent action to combat climate change and its impacts\", \"correct\": true}, {\"choice\": \"Conserve and sustainably use the oceans, seas, and marine resources for sustainable development\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The goal of Sustainable Development Goal 13 is to address a critical issue that affects the entire planet and all of its inhabitants.\"}, {\"hint_type\": \"specific\", \"hint\": \"The goal of Sustainable Development Goal 13 is to address a critical issue that is caused by human activities and is having a significant impact on the environment.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Handbook for the Sustainable Development Goals, which is available online.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the section on Sustainable Development Goal 13.\"}]}"
     }
   } ],
   "displayName": "SDG 13 trivia",

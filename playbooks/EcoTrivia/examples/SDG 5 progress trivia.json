@@ -43,39 +43,7 @@
     }
   }, {
     "agentUtterance": {
-      "text": "What is the progress of Sustainable Development Goal 5?\n(A) The world is on track to achieve all of the targets for Sustainable Development Goal 5.\n(B) The world is making progress towards achieving the targets for Sustainable Development Goal 5, but there is still more work to be done.\n(C) The world is not on track to achieve any of the targets for Sustainable Development Goal 5.\n(D) The data on the progress of Sustainable Development Goal 5 is inconclusive.\nAnswer: B"
-    }
-  }, {
-    "userUtterance": {
-      "text": "Give me a hint about the correct choice"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The world is making progress towards achieving the targets for Sustainable Development Goal 5, but there are still significant challenges that need to be addressed."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Do you have more specific hint about the solution?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "One of the challenges that is slowing progress towards achieving the targets for Sustainable Development Goal 5 is the lack of data on the issue."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Where can I find the answer to the trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer to the trivia can be found in the Sustainable Development Goals 2023 Report Gender Snapshot."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Which part of the document has the answer?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer can be found in the section on the progress of Sustainable Development Goal 5."
+      "text": "{\"question\": \"What is the progress of Sustainable Development Goal 5?\", \"choices\": [{\"choice\": \"The world is on track to achieve all of the targets for Sustainable Development Goal 5.\", \"correct\": false}, {\"choice\": \"The world is making progress towards achieving the targets for Sustainable Development Goal 5, but there is still more work to be done.\", \"correct\": true}, {\"choice\": \"The world is not on track to achieve any of the targets for Sustainable Development Goal 5.\", \"correct\": false}, {\"choice\": \"The data on the progress of Sustainable Development Goal 5 is inconclusive.\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The progress is kind of in between.\"}, {\"hint_type\": \"specific\", \"hint\": \"One of the challenges that is slowing progress towards achieving the targets for Sustainable Development Goal 5 is the lack of data on the issue.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainable Development Goals 2023 Report Gender Snapshot.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the section on the progress of Sustainable Development Goal 5.\"}]}"
     }
   } ],
   "displayName": "SDG 5 progress trivia",

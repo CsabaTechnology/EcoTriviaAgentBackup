@@ -43,39 +43,7 @@
     }
   }, {
     "agentUtterance": {
-      "text": "What is the goal of Sustainable Development Goal 5?\n(A) End poverty in all its forms everywhere\n(B) End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\n(C) Ensure healthy lives and promote well-being for all at all ages\n(D) Achieve gender equality and empower all women and girls\nAnswer: D"
-    }
-  }, {
-    "userUtterance": {
-      "text": "Can you give me a hint about which is the right choice?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The goal of Sustainable Development Goal 5 is to address a fundamental issue that affects half of the world's population."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Can you give me a more specific hint about the good answer?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The goal of Sustainable Development Goal 5 is to ensure that everyone has equal rights and opportunities, regardless of their gender."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Where can I find the information for the right answer?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The information for the right answer can be found in the Sustainable Development Goals 2021 Progress Chart."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Which part of that document contains the solution?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The solution can be found in the section on Sustainable Development Goal 5."
+      "text": "{\"question\": \"What is the goal of Sustainable Development Goal 5?\", \"choices\": [{\"choice\": \"End poverty in all its forms everywhere\", \"correct\": false}, {\"choice\": \"End hunger, achieve food security and improved nutrition, and promote sustainable agriculture\", \"correct\": false}, {\"choice\": \"Ensure healthy lives and promote well-being for all at all ages\", \"correct\": false}, {\"choice\": \"Achieve gender equality and empower all women and girls\", \"correct\": true}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The goal of Sustainable Development Goal 5 is to address a fundamental issue that affects half of the world's population.\"}, {\"hint_type\": \"specific\", \"hint\": \"The goal of Sustainable Development Goal 5 is to ensure that everyone has equal rights and opportunities, regardless of their gender.\"}, {\"hint_type\": \"source\", \"hint\": \"The information for the right answer can be found in the Sustainable Development Goals 2021 Progress Chart.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The solution can be found in the section on Sustainable Development Goal 5.\"}]}"
     }
   } ],
   "displayName": "SDG 5 trivia",

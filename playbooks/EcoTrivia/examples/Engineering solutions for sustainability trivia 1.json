@@ -43,82 +43,10 @@
     }
   }, {
     "agentUtterance": {
-      "text": "What are some engineering solutions for sustainability?\n(A) Cleaner technologies\n(B) Substituting high impacts with lower impacts\n(C) Designing systems to mitigate environmental problems\n(D) All of the above\nAnswer: D"
-    }
-  }, {
-    "userUtterance": {
-      "text": "Give a hint about the correct choice"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "Engineering solutions for sustainability involve finding ways to reduce environmental impact and promote sustainability."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Do you have a more specific hint?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "Engineering solutions for sustainability often involve using new technologies or finding new ways to use existing technologies to reduce environmental impact."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Where can I find the solution for the trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The solution for the trivia can be found in the Engineering Solutions for Sustainability document."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Which part of this document contains the answer?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The solution can be found in the section on \"Engineering and Producing a Sustainable Material Supply: Challenges and Opportunities\"."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Do you have a harder trivia about engineering solutions for sustainability?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "What is the role of engineers in promoting sustainability?\n(A) Advocating for and contributing to a positive future\n(B) Designing systems to mitigate environmental problems\n(C) Improving efficiencies and innovating\n(D) All of the above\nAnswer: D"
-    }
-  }, {
-    "userUtterance": {
-      "text": "Do you have a hint towards the correct choice?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "Engineers play a crucial role in promoting sustainability by using their knowledge and skills to find solutions to environmental challenges."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Can you give more specific hint towards solving the trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "Engineers can contribute to sustainability by developing new technologies, improving existing technologies, and designing systems that are more environmentally friendly."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Where can I find the answer to this trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer to the trivia can be found in the Engineering Solutions for Sustainability document."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Which part of that document contains the answer?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer can be found in the section on \"The Role of the Engineer\"."
+      "text": "{\"question\": \"What are some engineering solutions for sustainability?\", \"choices\": [{\"choice\": \"Cleaner technologies\", \"correct\": false}, {\"choice\": \"Substituting high impacts with lower impacts\", \"correct\": false}, {\"choice\": \"Designing systems to mitigate environmental problems\", \"correct\": false}, {\"choice\": \"All of the above\", \"correct\": true}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"Engineering solutions for sustainability involve finding ways to reduce environmental impact and promote sustainability.\"}, {\"hint_type\": \"specific\", \"hint\": \"Engineering solutions for sustainability often involve using new technologies or finding new ways to use existing technologies to reduce environmental impact.\"}, {\"hint_type\": \"source\", \"hint\": \"The solution for the trivia can be found in the Engineering Solutions for Sustainability document.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The solution can be found in the section on 'Engineering and Producing a Sustainable Material Supply: Challenges and Opportunities'.\"}]}"
     }
   } ],
-  "displayName": "Engineering solutions for sustainability trivias",
+  "displayName": "Engineering solutions for sustainability trivia 1",
   "retrievalStrategy": "DEFAULT",
   "conversationState": "OUTPUT_STATE_PENDING",
   "languageCode": "en"

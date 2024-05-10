@@ -43,39 +43,7 @@
     }
   }, {
     "agentUtterance": {
-      "text": "What is the percentage of the world's population that has access to electricity?\n(A) 80%\n(B) 90.1%\n(C) 95%\n(D) 100%\nAnswer: B"
-    }
-  }, {
-    "userUtterance": {
-      "text": "Give me a hint about the correct choice"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The percentage of the world's population that has access to electricity is close to 90%."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Can you give a more specific hint?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The percentage of the world's population that has access to electricity is slightly higher than 90%."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Where can I find the answer to the trivia?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer to the trivia can be found in the Sustainable Development Goals 2022 Extended Report Goal 7."
-    }
-  }, {
-    "userUtterance": {
-      "text": "Which part of the document contains the answer?"
-    }
-  }, {
-    "agentUtterance": {
-      "text": "The answer can be found in the section on access to electricity."
+      "text": "{\"question\": \"What is the percentage of the world's population that has access to electricity?\", \"choices\": [{\"choice\": \"80%\", \"correct\": false}, {\"choice\": \"90.1%\", \"correct\": true}, {\"choice\": \"95%\", \"correct\": false}, {\"choice\": \"100%\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The percentage of the world's population that has access to electricity is close to 90%.\"}, {\"hint_type\": \"specific\", \"hint\": \"The percentage of the world's population that has access to electricity is slightly higher than 90%.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainable Development Goals 2022 Extended Report Goal 7.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the section on access to electricity.\"}]}"
     }
   } ],
   "displayName": "SDG electricity trivia",
